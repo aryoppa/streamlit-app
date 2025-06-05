@@ -1,0 +1,501 @@
+Nama Lokasi,Jam Login,Nama,Email,No Telepon,Tahun Lahir,Merk HP,Minat Digital,Tipe Lokasi,Usia,Kategori Usia,Jam,Hari,Weekend
+Bandar Lampung,2024-10-07 06:05:33,"Dr. Najam Pratama, S.Farm",lastuti@example.net,+62 (065) 803 9282,1989,Xiaomi,5.7,Urban,36,35-44,6,Monday,False
+Kota Administrasi Jakarta Barat,2024-11-11 23:54:14,Ghaliyati Zulkarnain,xhutasoit@example.net,(0229) 927 5037,1983,Xiaomi,6.3,Urban,42,35-44,23,Monday,False
+Bogor,2024-10-21 22:21:29,Yunita Hasanah,jumadi11@example.com,+62-0145-303-8567,1991,Apple,8.4,Rural,34,25-34,22,Monday,False
+Tangerang,2024-08-28 20:45:26,Lidya Kuswoyo,prabawausada@example.org,(0005) 184 4989,2000,Asus,4.4,Suburban,25,18-24,20,Wednesday,False
+Semarang,2024-08-23 22:32:02,Maria Sihotang,xsimanjuntak@example.org,+62 (66) 591-8463,1982,Xiaomi,6.7,Urban,43,35-44,22,Friday,False
+Bandung,2024-11-17 04:12:44,"Dodo Wahyudin, S.E.I",ardiantolatif@example.com,086 557 7908,1982,Samsung,5.2,Urban,43,35-44,4,Sunday,True
+Bekasi,2025-02-07 02:27:28,"Virman Kusmawati, S.Pt",kayun12@example.org,+62 (72) 318 4322,2000,Samsung,6.1,Urban,25,18-24,2,Friday,False
+Kediri,2024-11-13 21:06:16,Radika Hutasoit,setyahassanah@example.net,+62 (59) 136-5177,1992,Samsung,8.6,Suburban,33,25-34,21,Wednesday,False
+Sabang,2024-09-10 07:49:18,Ian Kuswoyo,bjailani@example.org,(0392) 603-0299,1980,Samsung,6.4,Suburban,45,35-44,7,Tuesday,False
+Tasikmalaya,2024-10-10 16:05:18,"Ulya Wahyudin, S.E.I",irma19@example.net,+62 (28) 092-0242,1990,Samsung,6.1,Urban,35,25-34,16,Thursday,False
+Jayapura,2025-04-14 02:46:56,Dt. Langgeng Purwanti,prasetya04@example.com,086 990 4137,1980,Samsung,3.3,Urban,45,35-44,2,Monday,False
+Semarang,2024-08-19 19:09:05,Tgk. Mumpuni Maheswara,uhutasoit@example.net,(0723) 692-9298,1980,Samsung,7.5,Urban,45,35-44,19,Monday,False
+Ambon,2025-03-20 13:14:39,Kamila Widiastuti,kaninurdiyanti@example.org,+62 (0257) 991 3662,1987,Samsung,7.3,Suburban,38,35-44,13,Thursday,False
+Tanjungpinang,2024-06-29 02:20:12,"dr. Taswir Habibi, S.Pd",inarpati@example.com,+62 (003) 886-2912,1970,Realme,10.0,Suburban,55,45-54,2,Saturday,True
+Makassar,2025-01-12 17:07:32,Tgk. Kamila Jailani,kawaca72@example.org,(0990) 881-1729,1970,Samsung,5.4,Urban,55,45-54,17,Sunday,True
+Bukittinggi,2024-07-18 13:47:53,Drs. Gabriella Mangunsong,tedisaefullah@example.com,0806865086,1979,Xiaomi,6.4,Urban,46,45-54,13,Thursday,False
+Tual,2024-11-24 21:30:34,"Jaya Prasetyo, S.IP",agnes15@example.com,+62-0765-991-6247,1974,Apple,6.5,Urban,51,45-54,21,Sunday,True
+Bima,2024-09-12 13:30:58,Zulfa Puspita,queenlailasari@example.net,+62-0149-864-3009,1988,Asus,9.2,Rural,37,35-44,13,Thursday,False
+Metro,2024-07-16 12:55:44,Calista Setiawan,vinsenkurniawan@example.org,081 806 3565,1975,Samsung,5.8,Urban,50,45-54,12,Tuesday,False
+Manado,2025-03-15 06:35:18,R.A. Yani Aryani,adinata65@example.net,+62 (026) 944-8695,1970,Apple,6.6,Suburban,55,45-54,6,Saturday,True
+Sibolga,2025-02-12 00:34:03,"Drs. Vivi Oktaviani, M.Ak",csitompul@example.com,+62 (0636) 887 2588,1999,Asus,7.2,Suburban,26,25-34,0,Wednesday,False
+Banjar,2024-09-23 08:40:14,"Margana Puspita, S.Ked",myulianti@example.org,(0449) 562-1372,1982,Realme,6.4,Urban,43,35-44,8,Monday,False
+Prabumulih,2024-05-03 18:47:29,Hj. Yance Santoso,maras93@example.com,+62 (038) 658-9026,1985,Vivo,5.1,Urban,40,35-44,18,Friday,False
+Metro,2024-08-18 09:35:14,Cemeti Saputra,garang65@example.com,+62-12-796-1143,1970,Samsung,6.4,Urban,55,45-54,9,Sunday,True
+Purwokerto,2025-01-31 01:07:27,"Vanesa Saragih, S.Psi",ypermata@example.org,+62 (190) 669-8490,1979,Samsung,8.1,Suburban,46,45-54,1,Friday,False
+Sorong,2024-10-17 12:25:38,Agnes Najmudin,parman46@example.com,+62 (77) 038-4309,1986,Oppo,3.9,Suburban,39,35-44,12,Thursday,False
+Samarinda,2025-01-15 17:10:09,"R. Padmi Wahyuni, S.Sos",pratiwiheru@example.net,088 392 0530,1973,Huawei,6.3,Suburban,52,45-54,17,Wednesday,False
+Tarakan,2025-04-06 13:45:19,Caket Usada,wirdapudjiastuti@example.org,+62 (14) 656-6938,1988,Xiaomi,4.6,Suburban,37,35-44,13,Sunday,True
+Banjar,2025-02-25 22:50:53,Bakijan Nuraini,cpranowo@example.com,+62-11-848-9554,1978,Xiaomi,8.4,Urban,47,45-54,22,Tuesday,False
+Yogyakarta,2024-09-11 21:18:03,Harimurti Andriani,wasitavanesa@example.com,+62-0937-690-4268,1982,Samsung,3.0,Rural,43,35-44,21,Wednesday,False
+Bau-Bau,2024-09-13 18:29:02,Jasmin Manullang,rahmisihombing@example.org,+62 (081) 845-1848,1978,Vivo,4.9,Suburban,47,45-54,18,Friday,False
+Bengkulu,2024-12-30 13:59:50,Ira Simbolon,tiara26@example.com,+62 (0769) 735 7790,2003,Samsung,6.8,Urban,22,18-24,13,Monday,False
+Kota Administrasi Jakarta Utara,2025-02-18 13:36:48,"Drs. Lembah Hutasoit, S.Gz",hassanahmalika@example.com,(0141) 633-5658,1984,Apple,9.1,Rural,41,35-44,13,Tuesday,False
+Subulussalam,2025-03-01 13:53:26,Candrakanta Safitri,gnasyidah@example.net,0804341651,1974,Apple,5.9,Suburban,51,45-54,13,Saturday,True
+Cilegon,2024-12-26 01:13:36,Mursita Hutapea,cpalastri@example.com,0827553942,1993,Xiaomi,4.9,Suburban,32,25-34,1,Thursday,False
+Manado,2024-06-14 21:41:36,Maimunah Wijayanti,kurniawanjamal@example.net,+62-733-343-3339,1972,Samsung,9.8,Suburban,53,45-54,21,Friday,False
+Surakarta,2024-10-26 04:46:00,Nova Sudiati,ganda90@example.net,+62 (211) 179-0807,1987,Samsung,3.1,Rural,38,35-44,4,Saturday,True
+Tanjungpinang,2024-05-01 05:01:01,Lidya Saputra,ysitompul@example.com,+62 (957) 947-2846,1970,Xiaomi,1.6,Suburban,55,45-54,5,Wednesday,False
+Sibolga,2024-06-04 20:40:10,Perkasa Mulyani,anggriawandaliman@example.com,+62-0920-867-8085,1971,Samsung,6.9,Urban,54,45-54,20,Tuesday,False
+Prabumulih,2024-10-28 21:39:43,Gangsar Astuti,carlamaryati@example.net,(027) 187 5003,1986,Xiaomi,5.0,Urban,39,35-44,21,Monday,False
+Cilegon,2024-12-02 00:50:58,Edi Wastuti,triwahyudin@example.com,(091) 559 4284,1992,Samsung,4.0,Rural,33,25-34,0,Monday,False
+Metro,2024-08-23 18:23:02,"Lega Laksita, M.TI.",lwastuti@example.net,+62-0479-552-7636,1986,Apple,7.4,Urban,39,35-44,18,Friday,False
+Subulussalam,2025-03-20 14:09:49,"Gaiman Gunawan, S.H.",muhammaddongoran@example.com,+62 (564) 729-2931,1983,Xiaomi,6.5,Urban,42,35-44,14,Thursday,False
+Tangerang Selatan,2024-05-25 19:26:06,Rahayu Hakim,sihombingradika@example.org,+62 (0386) 632 2702,1981,Samsung,4.9,Urban,44,35-44,19,Saturday,True
+Yogyakarta,2025-03-22 08:00:50,Damu Sihombing,megantaramursinin@example.com,(072) 885-7448,1970,Apple,3.4,Urban,55,45-54,8,Saturday,True
+Kediri,2025-03-11 00:18:26,Pranata Mandala,viktor38@example.com,+62-061-203-4717,1977,Samsung,7.7,Suburban,48,45-54,0,Tuesday,False
+Lubuklinggau,2024-10-04 19:55:13,"T. Elvin Simbolon, S.IP",wawan17@example.net,+62 (455) 884 5061,1980,Samsung,7.3,Rural,45,35-44,19,Friday,False
+Kota Administrasi Jakarta Timur,2024-05-25 13:20:58,Jamal Astuti,esimanjuntak@example.com,+62 (939) 982-4558,1995,Asus,5.8,Urban,30,25-34,13,Saturday,True
+Jambi,2024-11-07 02:11:18,Cager Wibowo,latuponoarsipatra@example.com,(0716) 947-2256,1988,Apple,9.7,Urban,37,35-44,2,Thursday,False
+Jambi,2025-04-05 09:54:02,H. Dartono Mardhiyah,wastutigambira@example.net,(011) 253 5544,1970,Vivo,3.9,Urban,55,45-54,9,Saturday,True
+Mojokerto,2024-10-11 06:50:51,Ir. Reksa Thamrin,diananatsir@example.net,(047) 598 7622,1988,Samsung,2.9,Rural,37,35-44,6,Friday,False
+Bontang,2024-04-22 19:01:08,Hasta Gunarto,mitrapurwanti@example.com,+62-23-413-2611,1981,Oppo,4.6,Suburban,44,35-44,19,Monday,False
+Bogor,2025-01-22 09:38:01,Anita Haryanti,zpradipta@example.com,+62 (078) 006 8114,1978,Vivo,5.9,Urban,47,45-54,9,Wednesday,False
+Tidore Kepulauan,2024-06-11 19:35:42,Setya Sihotang,hardanauyainah@example.net,+62 (16) 433 4722,1991,Xiaomi,6.5,Rural,34,25-34,19,Tuesday,False
+Tidore Kepulauan,2024-09-23 01:14:48,drg. Queen Waskita,bwidodo@example.net,082 005 5778,1995,Apple,5.5,Rural,30,25-34,1,Monday,False
+Sawahlunto,2025-03-21 01:39:10,"Suci Agustina, S.Pd",udarahayu@example.com,+62 (0872) 829 9796,1994,Apple,6.7,Rural,31,25-34,1,Friday,False
+Mataram,2024-12-27 02:58:24,Halim Damanik,tardianto@example.org,088 457 8317,1976,Apple,3.5,Rural,49,45-54,2,Friday,False
+Bogor,2024-06-15 18:43:12,Ella Safitri,kalimharyanto@example.net,+62 (0564) 240-0825,1981,Huawei,8.9,Urban,44,35-44,18,Saturday,True
+Bekasi,2024-05-15 21:25:08,Yance Tarihoran,nasyiahhardi@example.com,+62 (0780) 774-0649,1988,Vivo,5.8,Suburban,37,35-44,21,Wednesday,False
+Binjai,2024-10-16 03:56:19,Ibrani Kurniawan,hartana71@example.com,+62-0085-368-6632,1994,Asus,8.2,Urban,31,25-34,3,Wednesday,False
+Sorong,2025-02-14 08:18:46,Ibrani Rahmawati,onuraini@example.com,(063) 416 3894,1980,Samsung,6.7,Rural,45,35-44,8,Friday,False
+Tangerang Selatan,2024-07-28 18:09:37,Paramita Hutapea,zsuryatmi@example.net,+62 (0846) 312-2417,1983,Oppo,6.9,Suburban,42,35-44,18,Sunday,True
+Serang,2024-08-26 07:35:18,Ira Sirait,tampubolonniyaga@example.com,(0497) 350 2080,1973,Huawei,7.1,Suburban,52,45-54,7,Monday,False
+Meulaboh,2024-12-14 21:10:04,Ganda Narpati,vanesasalahudin@example.net,+62 (14) 427-0312,1973,Samsung,6.9,Suburban,52,45-54,21,Saturday,True
+Serang,2025-01-10 20:26:38,Kajen Usada,wulandariembuh@example.com,+62-73-564-7570,1993,Samsung,7.3,Urban,32,25-34,20,Friday,False
+Pontianak,2024-09-18 04:46:56,Karta Melani,permadilurhur@example.org,+62 (120) 461 8723,1998,Oppo,8.7,Suburban,27,25-34,4,Wednesday,False
+Purwokerto,2024-12-25 04:53:08,Utama Tampubolon,pangeranmegantara@example.net,+62 (0601) 367 3037,1984,Xiaomi,6.4,Rural,41,35-44,4,Wednesday,False
+Tangerang Selatan,2024-05-18 00:33:43,Titi Yuliarti,mandriani@example.org,+62 (083) 764-5208,1995,Vivo,7.4,Rural,30,25-34,0,Saturday,True
+Tangerang Selatan,2025-03-13 14:59:49,"R. Gilda Jailani, S.E.I",langgraini@example.com,081 474 3503,1988,Samsung,5.8,Urban,37,35-44,14,Thursday,False
+Yogyakarta,2024-08-22 10:25:20,Faizah Natsir,ichamarbun@example.com,+62 (036) 502-4916,1978,Vivo,8.9,Urban,47,45-54,10,Thursday,False
+Binjai,2025-03-13 20:21:58,R. Vanya Yolanda,estiono25@example.com,+62-0009-792-5132,1988,Samsung,4.6,Urban,37,35-44,20,Thursday,False
+Palangkaraya,2025-01-03 17:26:11,Cecep Utami,tambaajiman@example.com,(0195) 005-2812,2000,Samsung,9.6,Suburban,25,18-24,17,Friday,False
+Palu,2025-03-16 13:37:07,Malika Pratiwi,harsayawinarno@example.net,(0358) 573-0652,1984,Samsung,5.9,Rural,41,35-44,13,Sunday,True
+Tebingtinggi,2024-11-10 01:41:22,"Drs. Ikin Zulaika, M.Farm",rwasita@example.com,+62 (0077) 848 7392,2000,Vivo,3.1,Urban,25,18-24,1,Sunday,True
+Pekalongan,2024-09-11 09:54:48,"Makara Oktaviani, S.Psi",fhandayani@example.org,0855749821,1970,Oppo,6.3,Suburban,55,45-54,9,Wednesday,False
+Pekalongan,2024-08-17 19:27:54,"Hj. Iriana Maryadi, M.M.",pratiwiaswani@example.org,082 744 8570,1993,Xiaomi,4.6,Rural,32,25-34,19,Saturday,True
+Sorong,2024-12-16 06:09:39,Jarwadi Handayani,atmaja43@example.net,086 209 5935,1985,Apple,7.7,Suburban,40,35-44,6,Monday,False
+Subulussalam,2025-01-20 22:54:03,"Gadang Saefullah, M.Farm",gandi79@example.net,+62 (086) 387 8294,1982,Realme,4.7,Suburban,43,35-44,22,Monday,False
+Bukittinggi,2025-03-27 11:29:49,Garan Mayasari,gpudjiastuti@example.org,+62 (651) 181 0220,1985,Apple,5.1,Suburban,40,35-44,11,Thursday,False
+Tual,2025-02-05 18:06:25,Galak Hariyah,santosohesti@example.com,+62-173-109-6789,1970,Vivo,2.2,Suburban,55,45-54,18,Wednesday,False
+Probolinggo,2024-10-23 07:58:09,Ani Hakim,faridahamima@example.org,+62 (0053) 910 3717,1982,Apple,5.1,Urban,43,35-44,7,Wednesday,False
+Serang,2025-03-21 15:10:05,Yance Suwarno,vjailani@example.net,+62-058-650-9480,1988,Apple,1.2,Suburban,37,35-44,15,Friday,False
+Pasuruan,2024-11-12 22:36:14,Mariadi Iswahyudi,legawafirmansyah@example.com,+62 (041) 381 1386,1999,Apple,2.8,Suburban,26,25-34,22,Tuesday,False
+Binjai,2024-04-30 18:34:22,Ir. Ophelia Winarno,mursinin17@example.org,+62-383-928-8619,1979,Apple,7.5,Rural,46,45-54,18,Tuesday,False
+Lhokseumawe,2024-12-12 15:06:30,Ratna Puspasari,harirahmawati@example.net,+62 (761) 228-6852,1976,Oppo,7.6,Suburban,49,45-54,15,Thursday,False
+Banjarmasin,2024-05-13 09:41:48,"H. Umar Gunarto, M.M.",oni62@example.net,0897558556,1979,Xiaomi,6.9,Suburban,46,45-54,9,Monday,False
+Salatiga,2024-07-17 00:11:11,"Drs. Martana Nainggolan, S.Psi",hendriputra@example.org,(059) 398-3684,1994,Samsung,4.1,Urban,31,25-34,0,Wednesday,False
+Bau-Bau,2024-12-17 22:48:58,Dr. Olivia Maryadi,farah49@example.net,+62 (776) 004-9082,1988,Realme,5.9,Urban,37,35-44,22,Tuesday,False
+Batam,2025-01-07 15:02:07,Ihsan Jailani,marsudisiregar@example.com,+62 (0043) 350-4888,1979,Apple,6.0,Urban,46,45-54,15,Tuesday,False
+Blitar,2025-04-09 11:39:01,"Tgk. Nasab Hutasoit, M.TI.",dian12@example.com,+62 (10) 752 2459,1990,Xiaomi,3.7,Urban,35,25-34,11,Wednesday,False
+Purwokerto,2024-08-06 10:32:08,"Cawuk Gunarto, S.H.",saefullahtalia@example.org,+62-0344-196-9315,1985,Huawei,9.0,Suburban,40,35-44,10,Tuesday,False
+Kota Administrasi Jakarta Selatan,2024-07-14 04:17:41,"Maida Farida, M.TI.",jamilmaulana@example.net,(0279) 194-0961,1994,Xiaomi,7.8,Rural,31,25-34,4,Sunday,True
+Jambi,2025-01-31 20:20:10,Drs. Capa Utama,jumari67@example.org,+62-055-661-3906,1977,Samsung,5.6,Urban,48,45-54,20,Friday,False
+Tasikmalaya,2024-05-21 22:21:56,Intan Wibisono,ratna66@example.com,+62-048-058-9258,1981,Huawei,6.1,Urban,44,35-44,22,Tuesday,False
+Padang,2024-10-02 08:52:35,Vicky Sirait,usadacengkir@example.com,+62-0206-799-8136,1981,Xiaomi,6.4,Rural,44,35-44,8,Wednesday,False
+Palembang,2024-05-25 01:31:32,"Liman Habibi, S.Psi",zizi57@example.com,+62 (0622) 517-9086,1970,Apple,1.9,Urban,55,45-54,1,Saturday,True
+Bitung,2025-02-06 03:07:42,Gambira Kuswoyo,lala01@example.net,+62 (0168) 622 7837,1987,Samsung,5.5,Suburban,38,35-44,3,Thursday,False
+Jayapura,2024-12-18 22:55:37,Ir. Harsana Suryono,qusada@example.net,(093) 898 3314,1987,Vivo,4.6,Suburban,38,35-44,22,Wednesday,False
+Makassar,2025-01-15 04:42:25,Tari Wahyuni,budi86@example.org,(059) 116-6553,1985,Xiaomi,4.0,Suburban,40,35-44,4,Wednesday,False
+Semarang,2025-03-21 16:59:49,R. Juli Hutapea,fprabowo@example.com,+62 (590) 425 9792,1982,Xiaomi,5.4,Urban,43,35-44,16,Friday,False
+Semarang,2024-05-25 20:45:52,Hj. Dinda Tampubolon,kasim58@example.net,(0033) 521 1039,1970,Realme,9.6,Urban,55,45-54,20,Saturday,True
+Ambon,2024-10-06 03:21:10,Safina Wijayanti,julilaksita@example.com,+62 (40) 514 7705,1980,Vivo,7.3,Suburban,45,35-44,3,Sunday,True
+Tarakan,2024-06-20 10:36:04,Diah Riyanti,gunawandalimin@example.net,+62-833-884-8792,1981,Samsung,4.9,Suburban,44,35-44,10,Thursday,False
+Kediri,2025-01-11 08:31:43,"Chelsea Saragih, M.Pd",hbudiyanto@example.org,+62-69-804-2043,1976,Apple,7.1,Urban,49,45-54,8,Saturday,True
+Bandung,2024-08-11 03:11:43,Syahrini Sitompul,ahasanah@example.com,+62 (0070) 164 5104,1983,Samsung,8.8,Suburban,42,35-44,3,Sunday,True
+Batu,2025-04-02 16:29:30,"R. Salsabila Novitasari, S.Pt",yunitamustofa@example.net,(036) 815 7981,1989,Oppo,7.8,Urban,36,35-44,16,Wednesday,False
+Kota Administrasi Jakarta Utara,2024-04-28 01:46:37,"Mumpuni Anggraini, M.TI.",galiono41@example.net,+62 (38) 780-0384,2003,Samsung,6.1,Suburban,22,18-24,1,Sunday,True
+Jambi,2024-05-04 16:38:09,Anita Tarihoran,jais15@example.net,+62 (762) 055 5438,1986,Xiaomi,4.7,Urban,39,35-44,16,Saturday,True
+Tebingtinggi,2024-08-20 19:21:36,Elvina Prabowo,balawidodo@example.net,+62 (0046) 084 3256,1987,Vivo,7.4,Rural,38,35-44,19,Tuesday,False
+Kota Administrasi Jakarta Barat,2025-02-20 00:33:50,Vivi Laksita,jarwa61@example.net,+62 (16) 893 6392,1984,Realme,6.8,Urban,41,35-44,0,Thursday,False
+Padang Sidempuan,2024-05-08 15:02:17,Darmanto Mandala,adriansyahirsad@example.com,(049) 578-2329,1970,Apple,7.8,Urban,55,45-54,15,Wednesday,False
+Bengkulu,2024-08-08 18:21:18,Bahuwarna Sihombing,mustofamaimunah@example.org,0832482629,1984,Vivo,7.3,Urban,41,35-44,18,Thursday,False
+Surabaya,2024-09-03 01:05:22,"Puti Ophelia Namaga, M.TI.",aanggriawan@example.net,+62 (51) 881-2520,1985,Samsung,8.1,Urban,40,35-44,1,Tuesday,False
+Manado,2024-09-09 09:44:28,Mitra Sirait,dimas62@example.com,+62 (664) 742 3122,2005,Vivo,4.9,Rural,20,18-24,9,Monday,False
+Padang Sidempuan,2024-10-01 02:15:39,"Drs. Cahyadi Riyanti, S.Sos",pradanapranata@example.org,+62-99-499-9393,1983,Samsung,8.6,Rural,42,35-44,2,Tuesday,False
+Tegal,2024-06-12 08:46:40,Carub Najmudin,jailaniluis@example.com,+62-0051-728-9752,1988,Apple,6.4,Urban,37,35-44,8,Wednesday,False
+Tangerang,2024-07-20 16:03:15,"Ir. Yessi Marbun, M.M.",endra62@example.net,(077) 223 3060,1984,Vivo,10.0,Urban,41,35-44,16,Saturday,True
+Banjarmasin,2024-11-09 02:47:53,Hendra Utama,cahyonuraini@example.net,+62 (0633) 312 7975,1973,Samsung,4.6,Suburban,52,45-54,2,Saturday,True
+Tegal,2024-09-23 20:34:11,"Najib Prakasa, M.M.",suryatmisalsabila@example.org,(0366) 096 5699,1996,Samsung,9.5,Rural,29,25-34,20,Monday,False
+Bima,2024-11-22 14:48:03,Tgk. Umi Hassanah,utampubolon@example.org,0880817703,1992,Oppo,6.4,Suburban,33,25-34,14,Friday,False
+Depok,2025-01-06 14:48:33,Kasusra Permadi,ridwansusanti@example.net,088 608 6803,1992,Oppo,4.7,Urban,33,25-34,14,Monday,False
+Prabumulih,2025-02-18 14:47:09,Yessi Halimah,fpratama@example.org,+62 (0764) 472-6490,1975,Xiaomi,5.0,Urban,50,45-54,14,Tuesday,False
+Bogor,2024-06-25 18:13:15,"R.A. Kartika Wastuti, M.Farm",dirjarahmawati@example.net,082 771 8129,1999,Oppo,5.4,Suburban,26,25-34,18,Tuesday,False
+Denpasar,2024-06-21 20:19:53,Malika Suryono,btampubolon@example.com,0826657027,1970,Xiaomi,6.8,Urban,55,45-54,20,Friday,False
+Pangkalpinang,2024-06-23 19:44:01,"dr. Jefri Nuraini, S.Farm",jumarisaefullah@example.net,+62-714-521-1175,1990,Samsung,7.0,Suburban,35,25-34,19,Sunday,True
+Batu,2024-05-17 12:00:27,Rendy Pangestu,prayogaintan@example.net,+62 (086) 892 6860,2005,Apple,4.9,Urban,20,18-24,12,Friday,False
+Purwokerto,2024-12-09 12:50:39,"Drs. Cahyo Ramadan, S.Gz",zahra04@example.org,+62 (59) 222-2064,1975,Samsung,6.0,Suburban,50,45-54,12,Monday,False
+Banjarbaru,2025-03-21 00:46:57,"Jaya Wahyudin, M.Pd",purwantosihombing@example.net,+62 (0742) 123-0940,1979,Huawei,10.0,Urban,46,45-54,0,Friday,False
+Bekasi,2024-09-12 09:32:25,Narji Maryati,permadialika@example.com,(0778) 097 3397,1985,Xiaomi,9.5,Suburban,40,35-44,9,Thursday,False
+Cimahi,2024-12-13 12:05:18,"Puti Intan Hutasoit, S.E.",permadibetania@example.net,(0671) 990 3849,1979,Apple,6.9,Urban,46,45-54,12,Friday,False
+Pasuruan,2025-01-07 03:14:41,Mila Mulyani,nurainiajiono@example.com,0830220502,1970,Apple,6.1,Suburban,55,45-54,3,Tuesday,False
+Jambi,2024-07-19 08:39:55,Radika Fujiati,eman69@example.com,+62-099-451-0162,1985,Huawei,6.2,Urban,40,35-44,8,Friday,False
+Banjarmasin,2024-10-27 02:33:50,Warsita Prasetya,hamima27@example.org,+62 (49) 998-2795,1974,Samsung,7.2,Suburban,51,45-54,2,Sunday,True
+Metro,2025-04-06 08:09:08,"Dr. Kamaria Dongoran, S.Farm",rahmawaticahya@example.org,+62-014-556-1681,1989,Xiaomi,4.0,Suburban,36,35-44,8,Sunday,True
+Meulaboh,2024-11-29 07:23:15,Harto Mardhiyah,irfan00@example.com,+62 (0721) 458-6833,1975,Xiaomi,5.5,Suburban,50,45-54,7,Friday,False
+Palu,2024-06-11 09:55:22,Gilda Winarno,restu86@example.com,+62-019-817-9469,2000,Xiaomi,2.7,Suburban,25,18-24,9,Tuesday,False
+Pagaralam,2024-07-16 00:07:20,Hardi Prasetyo,ohutasoit@example.net,+62 (489) 952 9978,1977,Samsung,6.8,Suburban,48,45-54,0,Tuesday,False
+Bukittinggi,2024-10-12 22:11:52,Galuh Januar,kalahutasoit@example.com,(0729) 343-0107,1981,Realme,7.3,Rural,44,35-44,22,Saturday,True
+Kupang,2024-12-20 13:40:16,"Hj. Juli Maulana, S.E.I",melanihasim@example.org,+62 (039) 660-5583,1993,Huawei,5.0,Urban,32,25-34,13,Friday,False
+Banjarmasin,2024-07-24 11:12:34,Edison Halimah,purwa91@example.com,+62-34-414-4885,1972,Xiaomi,9.1,Rural,53,45-54,11,Wednesday,False
+Tidore Kepulauan,2024-10-12 07:28:36,"Yance Mandala, M.Kom.",dpermadi@example.org,+62-15-569-9023,1987,Oppo,3.5,Urban,38,35-44,7,Saturday,True
+Banjarmasin,2024-07-24 23:47:11,Raisa Ardianto,fujiatidaru@example.com,+62 (577) 027 2785,1998,Huawei,3.1,Urban,27,25-34,23,Wednesday,False
+Sawahlunto,2024-12-31 19:22:30,Ajiman Rajasa,saragihunjani@example.net,(0608) 495 8803,1970,Oppo,6.4,Urban,55,45-54,19,Tuesday,False
+Pekalongan,2024-04-20 11:33:34,Rafid Maryadi,digdayabudiman@example.net,+62 (512) 405 6829,1986,Samsung,8.1,Urban,39,35-44,11,Saturday,True
+Banjarmasin,2025-03-31 22:24:14,H. Lulut Nuraini,ajiminmarpaung@example.com,(029) 145 0461,1987,Xiaomi,9.4,Suburban,38,35-44,22,Monday,False
+Denpasar,2025-02-23 07:41:34,Carla Suwarno,elisa84@example.org,(0357) 438-4215,1992,Xiaomi,5.1,Suburban,33,25-34,7,Sunday,True
+Serang,2024-10-14 12:26:37,Gada Maheswara,dono41@example.org,+62-031-780-7823,1972,Apple,8.2,Suburban,53,45-54,12,Monday,False
+Tangerang,2025-04-01 19:50:59,Digdaya Andriani,sidiq48@example.org,+62 (784) 521 8230,1971,Oppo,5.9,Suburban,54,45-54,19,Tuesday,False
+Padang,2024-08-06 12:53:26,"Putu Oktaviani, M.M.",keisha17@example.com,(0681) 040 9157,1990,Huawei,5.7,Urban,35,25-34,12,Tuesday,False
+Salatiga,2025-01-04 23:45:37,Balapati Mandasari,balapati79@example.org,+62-018-409-4353,1987,Huawei,7.8,Urban,38,35-44,23,Saturday,True
+Sawahlunto,2024-11-15 02:37:59,Drs. Anita Usamah,galih41@example.net,+62-448-571-4224,1987,Apple,7.3,Urban,38,35-44,2,Friday,False
+Solok,2024-06-17 04:24:31,Drs. Dimas Megantara,pradanacici@example.org,+62 (009) 881-3858,1988,Samsung,2.8,Urban,37,35-44,4,Monday,False
+Padangpanjang,2024-05-15 12:24:43,Maria Adriansyah,budimanjindra@example.org,+62 (424) 932 1495,1978,Asus,9.0,Urban,47,45-54,12,Wednesday,False
+Kota Administrasi Jakarta Selatan,2024-10-05 09:11:20,dr. Halima Pertiwi,yutama@example.org,0870207016,1987,Vivo,8.8,Urban,38,35-44,9,Saturday,True
+Surakarta,2024-08-29 00:52:27,Fitria Widiastuti,baguspuspasari@example.net,+62-016-629-9795,1987,Samsung,4.7,Suburban,38,35-44,0,Thursday,False
+Kendari,2024-12-01 00:32:03,"Bakiadi Novitasari, S.I.Kom",uprasetyo@example.org,+62 (0538) 179-2171,1977,Huawei,6.8,Suburban,48,45-54,0,Sunday,True
+Mojokerto,2024-08-11 00:17:19,Xanana Novitasari,rsimanjuntak@example.org,(0477) 332 9456,2003,Realme,7.0,Rural,22,18-24,0,Sunday,True
+Surakarta,2024-12-20 23:18:34,Dr. Panji Mayasari,digdaya80@example.org,+62 (55) 770-1715,1989,Xiaomi,6.5,Rural,36,35-44,23,Friday,False
+Palu,2024-09-28 14:48:54,Dt. Harsaya Halimah,dianagunawan@example.com,(0724) 599-2816,1973,Xiaomi,4.9,Suburban,52,45-54,14,Saturday,True
+Tomohon,2025-01-09 22:09:26,Makara Wibisono,hastutikarya@example.com,+62 (058) 148-7696,1991,Apple,4.7,Urban,34,25-34,22,Thursday,False
+Balikpapan,2024-07-22 23:03:12,Hafshah Budiyanto,cawuk87@example.org,+62-0938-276-1539,1975,Samsung,5.9,Suburban,50,45-54,23,Monday,False
+Solok,2024-10-11 05:59:15,Winda Hidayat,himawan49@example.com,(069) 583-2197,1992,Apple,8.3,Suburban,33,25-34,5,Friday,False
+Batu,2025-03-11 02:46:22,Halima Wahyuni,wisnuuwais@example.net,+62 (099) 758-1724,1996,Vivo,7.1,Urban,29,25-34,2,Tuesday,False
+Pekalongan,2024-08-12 03:56:50,"Bala Prastuti, S.Psi",unapitupulu@example.net,(019) 196 5701,1976,Samsung,5.3,Urban,49,45-54,3,Monday,False
+Blitar,2024-07-03 04:48:22,Artawan Thamrin,gadaardianto@example.com,+62-290-227-8469,1994,Apple,7.5,Rural,31,25-34,4,Wednesday,False
+Batam,2024-09-13 05:34:12,Tgk. Rahmat Yuniar,pradiptagilda@example.com,(0335) 494 6519,1989,Apple,1.0,Urban,36,35-44,5,Friday,False
+Medan,2025-03-14 05:37:55,Radika Hariyah,sitorusade@example.net,+62-98-624-0580,1993,Xiaomi,8.3,Suburban,32,25-34,5,Friday,False
+Cilegon,2024-10-21 11:47:41,"Natalia Usamah, S.E.",gsamosir@example.org,+62-85-140-3696,2003,Huawei,2.5,Suburban,22,18-24,11,Monday,False
+Probolinggo,2024-05-28 06:02:58,"R.M. Atma Haryanti, S.Gz",salmanlestari@example.org,+62 (666) 683 2723,1982,Apple,5.3,Urban,43,35-44,6,Tuesday,False
+Singkawang,2024-07-17 22:53:11,Farah Gunawan,kurniaiswahyudi@example.org,0865624220,1977,Apple,3.8,Urban,48,45-54,22,Wednesday,False
+Surakarta,2024-09-11 22:32:31,"Sutan Timbul Gunarto, S.Psi",ekazulkarnain@example.net,+62 (002) 762 1267,1976,Oppo,3.4,Urban,49,45-54,22,Wednesday,False
+Surabaya,2024-11-24 22:40:30,Oliva Widodo,vero19@example.org,(092) 786-8765,1976,Apple,8.3,Urban,49,45-54,22,Sunday,True
+Bogor,2024-09-03 05:42:39,"Drs. Nabila Ramadan, S.Gz",rainawijaya@example.org,+62-0269-097-3846,1984,Samsung,5.1,Urban,41,35-44,5,Tuesday,False
+Binjai,2024-11-26 01:36:16,"Ir. Dadap Suwarno, S.I.Kom",fujiatitantri@example.org,0895009751,1988,Apple,6.7,Rural,37,35-44,1,Tuesday,False
+Tidore Kepulauan,2024-08-09 17:41:58,"Cut Zelaya Yolanda, S.Psi",lamarrajata@example.com,(0128) 478-1891,1987,Samsung,5.9,Urban,38,35-44,17,Friday,False
+Kota Administrasi Jakarta Timur,2025-01-13 09:43:21,Dewi Uwais,usimbolon@example.com,+62-0718-949-0580,1993,Samsung,7.0,Suburban,32,25-34,9,Monday,False
+Sibolga,2024-08-09 11:43:09,Lalita Farida,jarwa13@example.org,(0787) 956-5442,1985,Apple,6.2,Urban,40,35-44,11,Friday,False
+Tasikmalaya,2024-04-25 08:27:39,Jessica Nashiruddin,mangunsongdanuja@example.org,+62-094-940-7929,1999,Apple,3.4,Rural,26,25-34,8,Thursday,False
+Gorontalo,2025-03-05 04:28:47,Talia Mandasari,uhastuti@example.com,+62-049-047-1281,1982,Huawei,8.0,Urban,43,35-44,4,Wednesday,False
+Pekalongan,2024-12-28 11:06:56,Wirda Maryati,nasyiahnasrullah@example.org,+62 (0429) 444 0192,2005,Apple,5.0,Urban,20,18-24,11,Saturday,True
+Kota Administrasi Jakarta Pusat,2024-09-17 13:08:45,Wani Hutasoit,dsamosir@example.com,+62 (75) 243 7280,1991,Xiaomi,2.9,Rural,34,25-34,13,Tuesday,False
+Bekasi,2024-08-01 10:18:42,"Lintang Hutapea, S.Farm",iswahyudigalih@example.net,+62 (129) 276 6372,1976,Xiaomi,5.1,Rural,49,45-54,10,Thursday,False
+Kota Administrasi Jakarta Utara,2024-04-19 23:26:51,R. Puji Sihombing,zamira90@example.org,+62-950-410-2767,1974,Samsung,9.0,Urban,51,45-54,23,Friday,False
+Ambon,2024-11-22 14:48:35,Ciaobella Hutapea,ega13@example.com,+62 (0783) 667-4286,1989,Oppo,7.7,Rural,36,35-44,14,Friday,False
+Yogyakarta,2025-03-18 18:58:54,Salimah Sihombing,dmulyani@example.net,+62-47-658-0185,1982,Samsung,5.3,Urban,43,35-44,18,Tuesday,False
+Subulussalam,2025-01-08 04:05:01,Melinda Suartini,karma20@example.com,(094) 544-1496,1992,Asus,5.3,Urban,33,25-34,4,Wednesday,False
+Cilegon,2025-02-13 02:21:33,"Maria Marbun, M.M.",vpuspita@example.net,(0393) 852 5800,1989,Samsung,5.4,Urban,36,35-44,2,Thursday,False
+Purwokerto,2025-01-31 00:47:08,Melinda Gunarto,dacinhariyah@example.org,+62 (006) 181 7534,1984,Apple,10.0,Urban,41,35-44,0,Friday,False
+Sabang,2024-05-05 21:05:40,"Kamila Susanti, S.Farm",dimazbudiman@example.org,+62 (0300) 910 9391,1976,Samsung,6.8,Suburban,49,45-54,21,Sunday,True
+Binjai,2025-04-05 11:32:03,Suci Hakim,elonnapitupulu@example.com,+62 (019) 269-2124,1970,Asus,6.9,Urban,55,45-54,11,Saturday,True
+Tanjungbalai,2024-12-08 08:05:14,Mumpuni Uyainah,yulia19@example.net,+62 (0717) 465-4214,1980,Xiaomi,8.1,Urban,45,35-44,8,Sunday,True
+Probolinggo,2025-01-31 05:28:37,Karimah Mulyani,cakrawala01@example.org,+62-066-504-4271,1993,Xiaomi,6.5,Suburban,32,25-34,5,Friday,False
+Medan,2024-10-26 17:48:10,"H. Mustika Manullang, S.Ked",fmahendra@example.com,(0396) 271-2863,1987,Samsung,5.5,Suburban,38,35-44,17,Saturday,True
+Palangkaraya,2025-03-06 06:35:25,Samsul Sudiati,gunartovirman@example.org,+62 (074) 101-1947,1972,Oppo,5.6,Urban,53,45-54,6,Thursday,False
+Banjar,2025-04-02 23:18:26,"Purwa Farida, S.Gz",karimahastuti@example.net,+62-72-006-4256,1986,Samsung,5.9,Suburban,39,35-44,23,Wednesday,False
+Mataram,2025-04-02 11:55:57,Bagas Prakasa,bmandasari@example.com,+62-87-766-1830,1988,Realme,5.9,Urban,37,35-44,11,Wednesday,False
+Manado,2024-08-05 23:29:31,"Ir. Ghani Tarihoran, S.Sos",wnatsir@example.org,(071) 985 5460,1976,Samsung,7.5,Suburban,49,45-54,23,Monday,False
+Tangerang Selatan,2025-02-12 02:23:56,Cut Rahmi Mangunsong,kuntharasetiawan@example.com,+62 (058) 517 4328,1986,Samsung,6.1,Suburban,39,35-44,2,Wednesday,False
+Surakarta,2025-02-21 01:53:06,"Ihsan Uwais, S.I.Kom",bagiyasusanti@example.net,+62-063-461-5717,1985,Samsung,7.5,Rural,40,35-44,1,Friday,False
+Manado,2024-07-15 04:49:40,Vanesa Hutagalung,sakurasihombing@example.com,+62-203-093-7618,1973,Apple,5.8,Urban,52,45-54,4,Monday,False
+Solok,2024-12-08 14:13:30,R. Paris Utama,epudjiastuti@example.org,+62 (0787) 005-0506,1988,Xiaomi,6.2,Urban,37,35-44,14,Sunday,True
+Kendari,2025-02-22 06:31:00,Iriana Yulianti,setiawanpranata@example.org,+62 (038) 782-9310,1990,Samsung,2.0,Urban,35,25-34,6,Saturday,True
+Cirebon,2024-08-31 15:50:18,Hilda Latupono,ppangestu@example.net,+62 (70) 790 3202,1995,Vivo,7.8,Urban,30,25-34,15,Saturday,True
+Bandar Lampung,2024-07-10 21:14:21,Oman Nashiruddin,rikapalastri@example.org,+62-041-792-9111,1995,Apple,6.7,Urban,30,25-34,21,Wednesday,False
+Ternate,2024-12-20 01:40:40,Padma Wibisono,etamba@example.net,(0993) 136-5651,1971,Xiaomi,8.0,Rural,54,45-54,1,Friday,False
+Padang Sidempuan,2024-06-29 16:07:39,R. Eluh Rajata,ksitumorang@example.net,0825309251,1975,Apple,1.0,Urban,50,45-54,16,Saturday,True
+Kota Administrasi Jakarta Timur,2024-12-13 23:05:39,"Melinda Prabowo, M.Ak",prayoga42@example.org,+62 (042) 625-8273,1990,Apple,10.0,Urban,35,25-34,23,Friday,False
+Tanjungpinang,2024-07-23 03:58:48,Talia Lestari,michelle30@example.com,+62-021-962-0710,1990,Xiaomi,5.7,Suburban,35,25-34,3,Tuesday,False
+Metro,2025-01-05 01:11:30,Banawi Mansur,halimahfitriani@example.com,+62-21-946-7232,1990,Samsung,8.2,Urban,35,25-34,1,Sunday,True
+Parepare,2025-02-04 06:27:36,"Puti Mila Natsir, M.M.",galuhjanuar@example.org,+62 (0876) 329 0927,2005,Samsung,3.9,Suburban,20,18-24,6,Tuesday,False
+Dumai,2025-01-21 19:30:31,Rusman Zulaika,kasirannasyidah@example.net,+62 (045) 608 3318,1990,Realme,7.2,Urban,35,25-34,19,Tuesday,False
+Malang,2025-02-08 21:18:54,"dr. Salwa Situmorang, S.Pt",prasetyakasiyah@example.com,+62 (095) 883-7340,1996,Huawei,3.9,Urban,29,25-34,21,Saturday,True
+Kediri,2024-12-28 19:59:11,Dr. Elvin Salahudin,ganjaran23@example.net,+62-127-722-0054,1994,Apple,4.8,Urban,31,25-34,19,Saturday,True
+Bandar Lampung,2025-01-06 05:59:54,"R. Tania Uyainah, S.E.",zelda59@example.org,+62-645-970-1082,1991,Samsung,9.8,Urban,34,25-34,5,Monday,False
+Padang,2025-03-08 09:50:14,"Tgk. Kacung Prasetyo, S.IP",jasmin92@example.net,+62 (07) 811-3799,1981,Xiaomi,5.6,Rural,44,35-44,9,Saturday,True
+Kota Administrasi Jakarta Utara,2024-06-08 22:50:38,Prima Mandala,azaleanamaga@example.com,+62 (635) 315 3136,1992,Apple,6.4,Urban,33,25-34,22,Saturday,True
+Yogyakarta,2024-12-16 19:39:57,Paiman Lailasari,amifirgantoro@example.org,+62-631-797-0623,1977,Samsung,7.7,Suburban,48,45-54,19,Monday,False
+Malang,2024-05-24 13:36:09,Gatra Puspasari,pradiptanatalia@example.org,(0265) 273 5435,1982,Samsung,7.0,Urban,43,35-44,13,Friday,False
+Tangerang,2025-04-02 16:18:07,dr. Nadia Puspasari,novitasariyahya@example.org,+62 (09) 042 1776,1980,Oppo,6.3,Urban,45,35-44,16,Wednesday,False
+Bandar Lampung,2024-12-16 12:18:09,Luwar Irawan,paramita32@example.com,+62 (53) 492-9298,1985,Oppo,6.7,Rural,40,35-44,12,Monday,False
+Kota Administrasi Jakarta Selatan,2024-12-23 20:18:01,Galak Widodo,marsudihalim@example.org,+62-0168-739-7740,2005,Samsung,10.0,Urban,20,18-24,20,Monday,False
+Sawahlunto,2024-05-02 03:24:51,"Tantri Kuswandari, M.TI.",lidyamegantara@example.org,(033) 569-3929,1970,Samsung,5.9,Suburban,55,45-54,3,Thursday,False
+Bandung,2024-08-14 19:25:56,Vivi Wasita,cakrabuana56@example.net,+62-60-078-0686,1991,Samsung,6.4,Rural,34,25-34,19,Wednesday,False
+Serang,2025-02-17 02:21:05,"Ir. Belinda Mahendra, S.Psi",siraitlukita@example.com,(0177) 318-0632,1970,Oppo,8.1,Suburban,55,45-54,2,Monday,False
+Malang,2024-10-05 00:44:20,"Bagya Hartati, M.M.",galihfujiati@example.net,+62 (431) 074-2799,1980,Samsung,8.2,Rural,45,35-44,0,Saturday,True
+Palangkaraya,2024-04-29 18:56:56,"Kariman Situmorang, S.E.I",uyulianti@example.org,+62-77-262-5701,1995,Samsung,8.4,Urban,30,25-34,18,Monday,False
+Meulaboh,2024-11-27 21:59:18,"Drs. Suci Rahmawati, S.E.",ivan92@example.com,(058) 046 4989,1985,Vivo,7.3,Urban,40,35-44,21,Wednesday,False
+Kota Administrasi Jakarta Pusat,2024-09-05 12:43:20,"R.M. Ian Mardhiyah, S.Gz",yunita42@example.org,+62-195-085-0165,1974,Samsung,3.7,Urban,51,45-54,12,Thursday,False
+Tarakan,2025-01-26 06:03:25,"Puti Padma Mangunsong, S.Pd",pertiwipurwa@example.net,(0905) 528 1832,1977,Oppo,9.3,Suburban,48,45-54,6,Sunday,True
+Ambon,2024-06-06 20:48:57,Caraka Sinaga,najmudinnatalia@example.com,+62 (381) 793 3554,1991,Samsung,3.7,Rural,34,25-34,20,Thursday,False
+Mataram,2024-05-21 20:04:23,"Genta Situmorang, M.TI.",saripratiwi@example.org,086 401 5577,1977,Samsung,6.6,Urban,48,45-54,20,Tuesday,False
+Batam,2025-04-05 02:18:53,Zulfa Hutapea,vmegantara@example.net,088 178 8479,1987,Samsung,4.5,Suburban,38,35-44,2,Saturday,True
+Solok,2024-08-09 10:35:52,Faizah Usada,prakasamarsito@example.com,+62 (137) 116-2411,1985,Oppo,5.9,Urban,40,35-44,10,Friday,False
+Surabaya,2024-08-21 17:12:43,T. Budi Utami,raisairawan@example.net,+62 (41) 272-3804,1978,Realme,6.7,Suburban,47,45-54,17,Wednesday,False
+Tebingtinggi,2025-02-01 02:59:44,Raisa Nasyidah,tugiman04@example.org,(082) 756-7043,2005,Vivo,6.6,Urban,20,18-24,2,Saturday,True
+Pekalongan,2024-09-25 04:44:19,Jefri Yuniar,zaenabhidayat@example.com,+62 (003) 856 9557,1991,Apple,6.8,Rural,34,25-34,4,Wednesday,False
+Surakarta,2024-06-24 01:03:11,Lega Prastuti,darijan00@example.com,088 774 9242,1970,Oppo,9.2,Suburban,55,45-54,1,Monday,False
+Madiun,2024-07-03 19:30:44,Cawisono Wahyuni,kandriani@example.com,+62 (0375) 402 5472,1986,Samsung,6.9,Urban,39,35-44,19,Wednesday,False
+Tanjungpinang,2024-06-07 03:47:15,Ir. Jessica Pratiwi,wwaluyo@example.net,+62 (84) 222-2310,1978,Samsung,5.5,Urban,47,45-54,3,Friday,False
+Purwokerto,2025-02-16 06:47:59,Rudi Dabukke,ejanuar@example.net,+62 (927) 452 3805,1993,Realme,7.9,Urban,32,25-34,6,Sunday,True
+Depok,2024-11-12 07:36:49,Arsipatra Yuniar,gamanihartati@example.org,+62 (257) 828-4106,1977,Samsung,8.4,Urban,48,45-54,7,Tuesday,False
+Surakarta,2025-03-23 05:10:26,"Drs. Eman Yulianti, S.Kom",sihombingarta@example.com,(0275) 208-8547,1983,Samsung,3.5,Urban,42,35-44,5,Sunday,True
+Tangerang,2024-09-05 22:00:30,"Drs. Hamzah Safitri, S.Ked",danu15@example.org,+62 (0929) 751-7028,1990,Samsung,7.2,Rural,35,25-34,22,Thursday,False
+Singkawang,2024-11-08 23:52:18,Sari Palastri,umarpaung@example.org,+62 (040) 693-7515,1993,Samsung,7.4,Suburban,32,25-34,23,Friday,False
+Padang,2024-10-28 17:02:07,Syahrini Sihombing,siraitmelinda@example.net,+62-093-983-4301,1972,Samsung,5.4,Suburban,53,45-54,17,Monday,False
+Langsa,2025-04-06 14:17:05,Hesti Waskita,bdabukke@example.net,0871863759,1981,Xiaomi,8.8,Urban,44,35-44,14,Sunday,True
+Gorontalo,2024-07-31 16:06:29,Mutia Hidayanto,najwafujiati@example.org,080 562 6565,1980,Apple,5.7,Rural,45,35-44,16,Wednesday,False
+Sawahlunto,2025-03-05 08:32:06,"Almira Manullang, M.M.",januarmujur@example.org,+62-45-547-8137,1978,Realme,6.3,Suburban,47,45-54,8,Wednesday,False
+Pangkalpinang,2024-06-19 17:38:03,Novi Hariyah,rezapuspasari@example.net,(074) 266-2991,2002,Vivo,5.7,Urban,23,18-24,17,Wednesday,False
+Palembang,2024-07-25 15:06:14,Ganep Sudiati,tania44@example.org,+62 (34) 785 1961,1989,Apple,6.0,Suburban,36,35-44,15,Thursday,False
+Pekanbaru,2025-04-06 19:31:22,Galar Simanjuntak,hardiansyahpanji@example.net,+62-64-628-7923,1972,Samsung,3.8,Suburban,53,45-54,19,Sunday,True
+Ternate,2025-03-03 02:38:07,"Zelda Situmorang, S.Sos",dmangunsong@example.com,+62 (64) 870-4947,1994,Apple,3.1,Urban,31,25-34,2,Monday,False
+Surabaya,2024-10-20 23:06:59,Prabawa Uwais,aryanicayadi@example.com,0873002447,2005,Xiaomi,9.2,Urban,20,18-24,23,Sunday,True
+Kotamobagu,2025-02-24 00:59:12,Dr. Balamantri Simanjuntak,gpangestu@example.org,+62 (046) 273-0147,1995,Samsung,4.3,Urban,30,25-34,0,Monday,False
+Bekasi,2024-08-09 10:53:12,Jaka Maheswara,ganepuyainah@example.com,+62 (095) 979 6471,1970,Xiaomi,4.0,Urban,55,45-54,10,Friday,False
+Tangerang,2025-01-31 18:24:23,Mila Prayoga,kusmawatidaru@example.com,+62 (890) 429-0257,1980,Apple,1.7,Rural,45,35-44,18,Friday,False
+Jayapura,2025-03-20 20:39:24,Bakti Hardiansyah,fhalimah@example.net,+62 (52) 045 6504,1997,Xiaomi,4.7,Rural,28,25-34,20,Thursday,False
+Bontang,2024-08-26 09:01:26,Kiandra Susanti,cemplunk86@example.org,+62 (0818) 321-9285,1977,Apple,3.4,Suburban,48,45-54,9,Monday,False
+Banjar,2025-02-23 03:57:35,Hilda Manullang,prabowo52@example.com,+62 (445) 189 5202,1989,Samsung,9.3,Urban,36,35-44,3,Sunday,True
+Parepare,2024-05-31 13:25:43,"dr. Ratih Sihotang, S.Kom",saptonotasnim@example.com,084 576 5213,1992,Huawei,8.0,Urban,33,25-34,13,Friday,False
+Palu,2024-10-15 17:08:02,"R.M. Jamil Mulyani, M.M.",jabal49@example.org,+62 (83) 389 8881,1975,Vivo,4.6,Suburban,50,45-54,17,Tuesday,False
+Sorong,2024-05-16 01:48:36,Ina Mandasari,zamirawidiastuti@example.org,(071) 120-7545,1984,Samsung,10.0,Suburban,41,35-44,1,Thursday,False
+Tasikmalaya,2024-06-10 11:55:10,Bakijan Wijaya,winarsihmalik@example.net,+62 (79) 852 4013,1970,Realme,8.0,Urban,55,45-54,11,Monday,False
+Payakumbuh,2025-02-03 17:10:13,drg. Dimas Pratama,orahmawati@example.net,+62 (23) 423 2161,1974,Apple,5.4,Suburban,51,45-54,17,Monday,False
+Kota Administrasi Jakarta Barat,2024-07-13 10:51:01,dr. Alika Hardiansyah,wibisonoelisa@example.com,+62 (007) 603 1089,1982,Realme,1.0,Rural,43,35-44,10,Saturday,True
+Sungai Penuh,2025-03-16 21:03:38,Nilam Riyanti,ppertiwi@example.com,+62-071-401-4011,1972,Vivo,10.0,Urban,53,45-54,21,Sunday,True
+Tomohon,2025-01-04 11:45:47,"Hj. Samiah Halimah, S.Pd",candrakanta60@example.net,+62-932-501-2495,2001,Apple,3.2,Urban,24,18-24,11,Saturday,True
+Pagaralam,2025-01-23 02:09:29,Dt. Slamet Kurniawan,dimashassanah@example.org,+62 (289) 389-1190,1970,Samsung,2.7,Suburban,55,45-54,2,Thursday,False
+Cirebon,2025-01-03 17:53:26,Diana Saptono,indranababan@example.org,083 342 8013,1980,Samsung,8.0,Urban,45,35-44,17,Friday,False
+Banjarbaru,2024-09-18 04:06:45,"Karimah Waskita, S.I.Kom",anggrainicandrakanta@example.net,087 592 7125,1986,Xiaomi,10.0,Urban,39,35-44,4,Wednesday,False
+Bitung,2025-03-11 06:52:44,Himawan Habibi,opangestu@example.org,(063) 836 1517,1999,Xiaomi,8.8,Urban,26,25-34,6,Tuesday,False
+Bogor,2025-02-23 07:16:10,Drs. Febi Tarihoran,manah11@example.com,+62 (082) 754-8015,1970,Samsung,7.1,Urban,55,45-54,7,Sunday,True
+Surakarta,2024-11-19 06:29:57,T. Bagya Winarno,upuspasari@example.com,(0164) 794-7386,1996,Samsung,7.2,Suburban,29,25-34,6,Tuesday,False
+Tomohon,2024-09-05 21:14:23,drg. Prakosa Pudjiastuti,ybudiman@example.net,+62 (0631) 752-0716,1985,Vivo,7.7,Suburban,40,35-44,21,Thursday,False
+Singkawang,2024-05-21 21:39:10,Yunita Oktaviani,akusumo@example.org,(0811) 266 9121,1975,Asus,7.5,Urban,50,45-54,21,Tuesday,False
+Purwokerto,2025-02-17 21:39:33,"Lurhur Lazuardi, S.E.I",jessicarahmawati@example.net,+62 (353) 961-3674,1989,Xiaomi,6.6,Rural,36,35-44,21,Monday,False
+Cilegon,2024-09-17 01:40:14,Hartana Wahyudin,kurniawanjanet@example.org,+62 (0657) 967 8427,1986,Samsung,6.2,Rural,39,35-44,1,Tuesday,False
+Palopo,2024-04-22 05:42:01,"Tgk. Kalim Utama, S.E.I",gabriella56@example.com,+62 (014) 773-2010,1978,Samsung,5.9,Rural,47,45-54,5,Monday,False
+Tomohon,2024-07-28 12:54:06,Luhung Melani,fyolanda@example.net,+62 (070) 269 5249,1985,Samsung,4.5,Urban,40,35-44,12,Sunday,True
+Subulussalam,2024-11-11 05:11:08,Olivia Gunarto,lfirgantoro@example.com,+62 (018) 773-4778,1981,Huawei,5.4,Urban,44,35-44,5,Monday,False
+Yogyakarta,2024-06-03 19:53:58,Aris Mandala,nmegantara@example.net,+62 (0858) 800 6167,1986,Samsung,2.6,Rural,39,35-44,19,Monday,False
+Sorong,2024-10-10 10:52:55,"Juli Kusmawati, M.TI.",zfirgantoro@example.com,+62 (677) 002 8427,1991,Xiaomi,5.8,Suburban,34,25-34,10,Thursday,False
+Kota Administrasi Jakarta Utara,2024-09-06 23:26:11,Eka Sudiati,baktiadikusmawati@example.com,(024) 671-9788,2000,Samsung,4.0,Urban,25,18-24,23,Friday,False
+Batu,2025-01-03 03:11:03,R.M. Gamanto Suryatmi,arta54@example.com,(0782) 806-4796,1972,Xiaomi,3.8,Urban,53,45-54,3,Friday,False
+Kendari,2025-02-01 17:15:47,Elisa Wijaya,ani13@example.org,+62 (450) 090-2559,2005,Oppo,6.4,Urban,20,18-24,17,Saturday,True
+Magelang,2025-01-02 22:38:22,Tgk. Rika Sirait,timbul54@example.net,+62-56-165-5650,1970,Vivo,8.8,Rural,55,45-54,22,Thursday,False
+Probolinggo,2024-07-27 15:29:26,Dr. Kasiran Lestari,psuartini@example.org,+62-0334-911-4152,1983,Samsung,7.8,Suburban,42,35-44,15,Saturday,True
+Bogor,2024-11-29 20:27:50,"Padmi Salahudin, M.Kom.",tasdikprabowo@example.com,+62-85-076-9864,1990,Samsung,2.9,Urban,35,25-34,20,Friday,False
+Kediri,2024-09-11 19:23:03,"Cut Kartika Sitompul, S.IP",xmaryati@example.org,+62-79-056-9659,1987,Samsung,4.0,Urban,38,35-44,19,Wednesday,False
+Tanjungbalai,2025-03-02 05:27:14,Restu Samosir,cahyadisaragih@example.net,+62 (071) 357-8529,1978,Huawei,7.9,Suburban,47,45-54,5,Sunday,True
+Tarakan,2024-12-20 19:40:46,"H. Teddy Usamah, S.Ked",xmansur@example.net,+62 (0563) 718-3440,1982,Realme,4.0,Rural,43,35-44,19,Friday,False
+Batam,2025-04-17 00:07:29,Dr. Hani Yolanda,natsirharsana@example.org,+62 (0963) 919-1954,1980,Xiaomi,5.6,Urban,45,35-44,0,Thursday,False
+Padang Sidempuan,2024-09-08 02:21:16,"KH. Labuh Permata, S.H.",prayogaatmaja@example.com,+62 (098) 763 5148,1979,Xiaomi,7.1,Suburban,46,45-54,2,Sunday,True
+Probolinggo,2024-05-28 21:49:40,"Anastasia Padmasari, M.Kom.",tarihoranhasta@example.com,+62 (0685) 366-4987,1993,Oppo,4.1,Rural,32,25-34,21,Tuesday,False
+Padangpanjang,2025-01-03 21:54:06,Karna Usamah,wisnu86@example.net,0820829737,1988,Samsung,6.2,Urban,37,35-44,21,Friday,False
+Gorontalo,2024-07-16 15:20:50,"Raina Wibowo, S.E.I",zulaikaaswani@example.org,+62 (0896) 908 3572,1978,Huawei,3.3,Suburban,47,45-54,15,Tuesday,False
+Meulaboh,2024-10-16 22:27:07,"Hj. Hesti Firmansyah, M.Farm",aisyah97@example.org,+62-0246-651-3644,1993,Apple,4.8,Urban,32,25-34,22,Wednesday,False
+Tual,2024-04-26 13:12:56,"Carla Nainggolan, S.Ked",jrahmawati@example.com,+62 (49) 363-1230,1988,Apple,6.6,Suburban,37,35-44,13,Friday,False
+Pariaman,2024-12-13 10:33:52,Iriana Andriani,gamanto41@example.com,+62-0477-866-0324,1993,Xiaomi,2.8,Suburban,32,25-34,10,Friday,False
+Manado,2025-03-26 05:38:06,Hendri Putra,winarnobaktiadi@example.org,+62 (04) 482 0700,1991,Samsung,6.9,Suburban,34,25-34,5,Wednesday,False
+Tomohon,2024-11-20 20:39:54,Olivia Suryatmi,ilyasyuliarti@example.org,+62 (059) 416 5162,1976,Samsung,6.0,Suburban,49,45-54,20,Wednesday,False
+Padangpanjang,2024-08-22 05:12:33,Zizi Halim,kawayayulianti@example.com,+62-0198-189-8471,1979,Oppo,7.1,Urban,46,45-54,5,Thursday,False
+Pasuruan,2025-04-07 06:46:21,"Dina Maryati, S.Kom",zulaikaajiman@example.com,+62-0915-596-3632,1992,Samsung,6.4,Rural,33,25-34,6,Monday,False
+Kota Administrasi Jakarta Timur,2024-12-09 18:20:50,Tgk. Mujur Kuswandari,sakuranatsir@example.net,+62 (023) 476-4907,1991,Xiaomi,8.7,Suburban,34,25-34,18,Monday,False
+Pasuruan,2024-07-11 19:15:39,dr. Galar Natsir,prasetyojohan@example.net,0851586734,1984,Samsung,6.3,Urban,41,35-44,19,Thursday,False
+Meulaboh,2024-12-24 08:31:36,Patricia Siregar,syahrini46@example.com,+62 (57) 540 9003,1986,Apple,5.1,Suburban,39,35-44,8,Tuesday,False
+Surakarta,2024-05-11 09:11:40,Tgk. Murti Zulaika,vega43@example.com,+62 (0864) 518 3760,1997,Samsung,6.2,Suburban,28,25-34,9,Saturday,True
+Tebingtinggi,2024-12-19 14:21:46,"Rangga Saptono, M.Ak",victoria89@example.com,(044) 134 3275,1979,Apple,7.1,Urban,46,45-54,14,Thursday,False
+Pangkalpinang,2025-03-02 18:51:27,Febi Prayoga,ardiantocalista@example.net,(004) 177-6561,1990,Oppo,6.1,Rural,35,25-34,18,Sunday,True
+Solok,2024-10-14 03:15:22,Puti Salahudin,iriana99@example.com,+62 (48) 156-9857,1982,Samsung,6.1,Rural,43,35-44,3,Monday,False
+Mojokerto,2025-04-05 00:04:34,Wardaya Salahudin,yani17@example.org,+62-02-720-6345,1982,Xiaomi,4.6,Urban,43,35-44,0,Saturday,True
+Bau-Bau,2025-01-14 02:28:55,"T. Niyaga Pranowo, M.Kom.",kadir54@example.com,+62 (012) 382 9657,1995,Apple,4.7,Rural,30,25-34,2,Tuesday,False
+Bogor,2024-08-12 04:35:08,Natalia Tampubolon,harimurti28@example.org,(0242) 954-3165,1993,Oppo,3.2,Urban,32,25-34,4,Monday,False
+Denpasar,2024-12-24 23:19:09,KH. Najam Saefullah,rahimahrespati@example.net,+62 (66) 930-0893,1993,Huawei,9.5,Urban,32,25-34,23,Tuesday,False
+Kota Administrasi Jakarta Selatan,2024-09-22 09:33:44,Dewi Pertiwi,wulan20@example.net,+62 (073) 420 6969,1998,Oppo,3.5,Urban,27,25-34,9,Sunday,True
+Madiun,2024-06-01 03:28:03,"Kenari Wibowo, S.Sos",qsihombing@example.com,+62 (0215) 291 0867,1985,Samsung,4.6,Rural,40,35-44,3,Saturday,True
+Palu,2024-06-10 02:47:07,"dr. Vera Maulana, S.Pd",vwibisono@example.org,(0133) 344-7626,1991,Samsung,4.6,Suburban,34,25-34,2,Monday,False
+Makassar,2024-05-04 10:37:55,Edward Hutapea,mahfudprasetya@example.net,+62-934-362-6204,1981,Samsung,7.8,Urban,44,35-44,10,Saturday,True
+Kota Administrasi Jakarta Utara,2024-05-01 06:48:40,Maimunah Yolanda,wwinarsih@example.net,+62 (0397) 359 7107,1988,Xiaomi,5.4,Urban,37,35-44,6,Wednesday,False
+Kota Administrasi Jakarta Pusat,2024-08-13 00:51:09,Ulva Kuswandari,ganep82@example.com,+62 (56) 366 9411,1983,Samsung,8.5,Suburban,42,35-44,0,Tuesday,False
+Parepare,2024-10-25 03:33:48,Damar Nasyiah,halimahedi@example.net,0800537599,1985,Apple,4.7,Urban,40,35-44,3,Friday,False
+Tidore Kepulauan,2024-05-31 22:17:25,Putri Saputra,ina25@example.net,+62-004-896-4652,1990,Xiaomi,6.6,Rural,35,25-34,22,Friday,False
+Malang,2024-05-24 13:51:51,Balangga Susanti,prasetyanyana@example.org,0809242875,1976,Apple,4.3,Rural,49,45-54,13,Friday,False
+Sungai Penuh,2024-07-17 00:27:50,"Rini Permadi, S.H.",saadat55@example.com,(0215) 862 4150,2005,Vivo,10.0,Suburban,20,18-24,0,Wednesday,False
+Sungai Penuh,2025-03-27 09:49:31,Mulyono Nuraini,wira17@example.org,+62 (74) 564 4948,1974,Samsung,3.6,Rural,51,45-54,9,Thursday,False
+Tomohon,2024-11-11 14:16:00,Makuta Pradipta,halimahharsaya@example.net,+62 (625) 728 7032,1972,Samsung,6.6,Urban,53,45-54,14,Monday,False
+Kota Administrasi Jakarta Barat,2024-06-08 12:26:59,Baktianto Zulkarnain,zulaikaprabowo@example.net,+62-032-074-2761,1996,Oppo,7.3,Rural,29,25-34,12,Saturday,True
+Banda Aceh,2024-09-14 18:24:39,Tina Halimah,raden02@example.org,(0075) 877-7121,1992,Apple,6.8,Suburban,33,25-34,18,Saturday,True
+Kendari,2024-10-10 00:14:07,Maman Mandala,mahdiwasita@example.net,+62 (134) 228-4993,1991,Oppo,5.6,Suburban,34,25-34,0,Thursday,False
+Parepare,2024-09-07 22:02:49,Yoga Pudjiastuti,umegantara@example.net,+62-89-261-3715,1991,Apple,5.7,Urban,34,25-34,22,Saturday,True
+Salatiga,2025-01-02 05:21:13,Hasim Yolanda,carakalaksita@example.com,+62-41-659-1520,1984,Samsung,6.1,Rural,41,35-44,5,Thursday,False
+Pangkalpinang,2025-01-30 10:32:13,Natalia Yulianti,luisusada@example.org,+62 (077) 749 0509,1976,Vivo,5.7,Urban,49,45-54,10,Thursday,False
+Yogyakarta,2025-01-12 07:40:13,Praba Suwarno,hartatikuncara@example.org,(0592) 304 5018,1985,Vivo,7.9,Urban,40,35-44,7,Sunday,True
+Cimahi,2024-11-12 14:55:41,Irma Yuliarti,keishamanullang@example.com,(016) 423 6103,1978,Oppo,10.0,Urban,47,45-54,14,Tuesday,False
+Cilegon,2024-09-26 14:30:49,Umaya Irawan,mustofaparis@example.com,+62 (66) 421-4764,1994,Samsung,4.9,Suburban,31,25-34,14,Thursday,False
+Bima,2024-11-30 22:22:40,"Kemal Pradipta, M.Pd",bwaskita@example.com,+62 (51) 583 7767,1983,Xiaomi,3.3,Suburban,42,35-44,22,Saturday,True
+Lhokseumawe,2025-01-30 02:25:04,"Tari Firgantoro, S.E.",cardianto@example.net,+62 (0996) 165 9266,1976,Apple,5.8,Suburban,49,45-54,2,Thursday,False
+Mojokerto,2025-01-24 00:21:50,Zalindra Nugroho,pangeranbudiman@example.com,+62 (008) 573 2788,1981,Samsung,10.0,Rural,44,35-44,0,Friday,False
+Batu,2024-06-15 20:13:37,Raihan Widodo,argonowastuti@example.org,+62 (047) 617 4224,1989,Huawei,4.4,Urban,36,35-44,20,Saturday,True
+Bima,2025-03-26 16:37:25,"drg. Cengkir Siregar, S.Gz",jabalsitumorang@example.com,+62-0864-908-1081,1979,Samsung,9.3,Suburban,46,45-54,16,Wednesday,False
+Tangerang Selatan,2024-09-24 22:58:23,Emin Purnawati,danangwinarno@example.net,086 617 9454,1976,Asus,9.4,Urban,49,45-54,22,Tuesday,False
+Salatiga,2024-12-27 04:17:01,Puti Juli Suryono,gandewa10@example.com,+62 (080) 172 2601,1987,Apple,4.9,Rural,38,35-44,4,Friday,False
+Malang,2024-05-25 06:55:03,Syahrini Palastri,viktor89@example.net,(045) 977-9452,1987,Samsung,7.1,Rural,38,35-44,6,Saturday,True
+Surabaya,2025-03-06 14:33:06,drg. Tirtayasa Mansur,taswir25@example.com,+62-219-416-8006,1979,Xiaomi,9.3,Suburban,46,45-54,14,Thursday,False
+Batam,2024-10-23 21:00:50,"Drs. Nadia Saputra, S.Kom",harimurti26@example.org,+62 (002) 776-9749,1980,Realme,5.2,Suburban,45,35-44,21,Wednesday,False
+Balikpapan,2024-12-11 22:15:49,"R. Gamblang Marpaung, M.M.",ikinmustofa@example.org,+62 (641) 220-3103,1987,Oppo,5.6,Urban,38,35-44,22,Wednesday,False
+Pasuruan,2024-09-22 07:53:05,"Edi Nashiruddin, S.Ked",rahmawaticlara@example.org,+62-37-236-8314,1970,Vivo,4.8,Urban,55,45-54,7,Sunday,True
+Palangkaraya,2025-04-16 12:34:41,"Jessica Sihombing, M.Farm",utamasamiah@example.org,(0276) 012 2777,1970,Oppo,4.0,Rural,55,45-54,12,Wednesday,False
+Subulussalam,2024-08-03 11:20:10,"Praba Nababan, S.E.",quyainah@example.net,+62-79-334-9605,1977,Oppo,4.7,Urban,48,45-54,11,Saturday,True
+Tarakan,2024-04-29 12:54:25,Hj. Latika Aryani,riyantibakti@example.net,+62-16-679-9840,1982,Vivo,3.6,Urban,43,35-44,12,Monday,False
+Palangkaraya,2025-01-09 21:51:04,Tgk. Bakianto Wacana,yolandaarta@example.org,(0678) 997-3080,1988,Samsung,6.1,Urban,37,35-44,21,Thursday,False
+Tegal,2024-09-07 17:33:31,"Bakiono Nashiruddin, S.E.I",agustinatirta@example.com,(095) 814-6717,1999,Apple,4.5,Rural,26,25-34,17,Saturday,True
+Singkawang,2024-07-10 05:04:09,Janet Prayoga,pudjiastutijohan@example.com,+62 (760) 243-7573,1993,Samsung,6.5,Urban,32,25-34,5,Wednesday,False
+Pangkalpinang,2024-10-06 00:35:56,Elon Winarno,hendrausamah@example.org,083 959 7246,1983,Asus,2.9,Urban,42,35-44,0,Sunday,True
+Tegal,2024-10-06 12:50:05,Ivan Santoso,saadat18@example.com,(057) 293-4172,1984,Huawei,6.7,Suburban,41,35-44,12,Sunday,True
+Madiun,2024-07-17 12:41:54,Ilsa Padmasari,raihanjailani@example.net,+62 (32) 971-6743,1974,Samsung,7.7,Rural,51,45-54,12,Wednesday,False
+Bekasi,2025-03-15 01:20:34,"Queen Anggriawan, S.T.",suryonodarsirah@example.org,+62-800-545-2280,1984,Oppo,2.0,Urban,41,35-44,1,Saturday,True
+Palopo,2024-09-04 16:26:53,"Gatra Prakasa, S.Gz",mnapitupulu@example.org,+62 (056) 193 1837,1982,Huawei,6.7,Urban,43,35-44,16,Wednesday,False
+Tomohon,2024-05-25 10:01:16,"Banara Hastuti, S.Pd",elisa35@example.net,+62 (0550) 842 8910,1988,Samsung,8.5,Urban,37,35-44,10,Saturday,True
+Salatiga,2025-01-08 02:58:20,Halim Mardhiyah,ksihombing@example.org,(0711) 991 8081,1976,Xiaomi,3.6,Urban,49,45-54,2,Wednesday,False
+Makassar,2024-09-06 11:46:44,"Vera Saragih, S.IP",spranowo@example.com,+62 (13) 524-7871,1990,Huawei,9.3,Urban,35,25-34,11,Friday,False
+Payakumbuh,2024-11-14 06:45:31,"Vero Sihombing, S.I.Kom",jarwadi00@example.net,+62 (55) 213 7603,2000,Samsung,6.8,Suburban,25,18-24,6,Thursday,False
+Denpasar,2025-04-02 00:23:13,R.A. Gawati Mansur,kusumokarimah@example.net,(0548) 214-5653,1983,Oppo,4.6,Suburban,42,35-44,0,Wednesday,False
+Jambi,2024-12-23 06:11:26,Eva Hasanah,fmaryadi@example.net,+62 (86) 326 6678,1989,Samsung,5.9,Suburban,36,35-44,6,Monday,False
+Kota Administrasi Jakarta Selatan,2024-09-03 03:03:06,"Rachel Wahyudin, S.Farm",januarkambali@example.net,+62 (072) 081-1556,1991,Huawei,7.1,Urban,34,25-34,3,Tuesday,False
+Kota Administrasi Jakarta Utara,2024-05-10 08:20:12,"Pia Halimah, M.Pd",vinosihombing@example.com,+62 (60) 602-9084,1980,Asus,6.2,Rural,45,35-44,8,Friday,False
+Sabang,2024-09-18 10:53:58,"Ir. Rudi Pratama, S.H.",ghardiansyah@example.org,(068) 455-0489,1987,Huawei,7.1,Urban,38,35-44,10,Wednesday,False
+Pematangsiantar,2024-08-01 23:22:14,"Perkasa Riyanti, S.Pt",siregarnajib@example.net,+62 (67) 389 9756,1985,Apple,4.2,Rural,40,35-44,23,Thursday,False
+Bau-Bau,2024-06-29 13:06:47,drg. Karsana Tarihoran,simon11@example.org,+62-410-856-2884,1985,Realme,6.3,Suburban,40,35-44,13,Saturday,True
+Tebingtinggi,2024-06-03 06:34:48,Vero Pratiwi,mandalatari@example.net,+62-188-485-2008,1977,Vivo,3.2,Urban,48,45-54,6,Monday,False
+Pasuruan,2025-03-12 04:12:40,Aswani Pudjiastuti,maryaditamba@example.com,+62 (0346) 810 5485,1985,Apple,5.8,Suburban,40,35-44,4,Wednesday,False
+Tanjungbalai,2025-03-02 21:59:12,Sutan Kemal Nasyiah,cengkir55@example.org,+62 (001) 749-0753,1989,Vivo,4.2,Urban,36,35-44,21,Sunday,True
+Sukabumi,2024-10-10 10:14:32,Catur Simbolon,wacanaraharja@example.com,0893544926,1999,Samsung,4.5,Suburban,26,25-34,10,Thursday,False
+Palopo,2024-05-22 10:25:38,"Drs. Maimunah Latupono, S.Kom",prasetya76@example.net,083 158 9357,1994,Xiaomi,8.5,Urban,31,25-34,10,Wednesday,False
+Bekasi,2024-12-30 05:25:17,"Restu Lestari, S.Pt",darmantomustofa@example.net,+62 (026) 611-0627,2005,Samsung,8.2,Urban,20,18-24,5,Monday,False
+Jayapura,2024-07-08 04:56:19,drg. Rusman Hakim,manullangdaniswara@example.com,+62-715-869-8864,1977,Samsung,7.2,Rural,48,45-54,4,Monday,False
+Tanjungbalai,2024-12-22 01:05:17,Diah Mulyani,rpurnawati@example.com,(0677) 622-8277,1993,Samsung,3.8,Urban,32,25-34,1,Sunday,True
+Lhokseumawe,2024-12-21 04:28:30,Mutia Pratiwi,olivawibowo@example.com,+62 (88) 137 7028,1986,Oppo,5.4,Rural,39,35-44,4,Saturday,True
+Parepare,2024-12-04 17:46:22,Kurnia Hariyah,mustofaade@example.com,+62 (196) 115-9408,2005,Apple,8.4,Urban,20,18-24,17,Wednesday,False
+Pagaralam,2024-04-25 03:02:06,"Respati Samosir, S.Ked",zulkarnainteguh@example.org,+62 (15) 454 4702,1976,Oppo,6.3,Suburban,49,45-54,3,Thursday,False
+Manado,2024-05-06 11:23:42,Hamima Adriansyah,rajatashakila@example.com,+62 (96) 044 3270,1976,Samsung,10.0,Suburban,49,45-54,11,Monday,False
+Kota Administrasi Jakarta Timur,2025-02-16 09:25:34,"Gasti Prastuti, S.Pt",wastutiella@example.net,+62 (085) 106-7949,1979,Apple,6.8,Suburban,46,45-54,9,Sunday,True
+Kota Administrasi Jakarta Pusat,2024-08-24 08:29:59,Indra Situmorang,ulvasirait@example.net,(0567) 922 8777,1970,Xiaomi,6.4,Urban,55,45-54,8,Saturday,True
+Bitung,2024-07-20 10:11:44,"Bella Namaga, S.Gz",astutitina@example.net,+62 (51) 996 6365,1979,Vivo,5.4,Urban,46,45-54,10,Saturday,True
+Lubuklinggau,2024-06-04 17:39:53,Warji Halimah,yogasitumorang@example.net,0807412094,1977,Apple,6.3,Urban,48,45-54,17,Tuesday,False
+Tidore Kepulauan,2025-02-16 11:08:12,Edison Wasita,jmaryadi@example.net,0818139890,1986,Xiaomi,5.7,Urban,39,35-44,11,Sunday,True
+Depok,2024-11-22 02:13:02,Pranawa Mansur,anggriawansyahrini@example.org,083 780 1820,1988,Realme,7.4,Suburban,37,35-44,2,Friday,False
+Ternate,2024-07-05 12:37:25,"Ir. Omar Yuliarti, S.Farm",klailasari@example.org,+62 (0339) 718 9569,2003,Xiaomi,7.9,Rural,22,18-24,12,Friday,False
+Kota Administrasi Jakarta Utara,2024-05-13 11:27:43,Kezia Hassanah,psinaga@example.com,+62-070-562-6085,1994,Samsung,4.4,Rural,31,25-34,11,Monday,False
+Bengkulu,2025-03-05 02:25:55,"drg. Keisha Hutapea, M.Pd",baktianto83@example.net,(041) 118 2422,1979,Samsung,3.3,Suburban,46,45-54,2,Wednesday,False
+Kupang,2025-02-07 23:45:10,Martani Tampubolon,pwaskita@example.org,+62 (0124) 620 9520,1976,Realme,2.3,Suburban,49,45-54,23,Friday,False
+Mataram,2024-11-18 01:33:36,Cemani Nasyiah,zhandayani@example.net,+62-046-152-6546,1989,Samsung,7.0,Suburban,36,35-44,1,Monday,False
+Langsa,2024-07-06 06:48:56,Paris Mahendra,firawan@example.com,+62 (003) 399-3788,1971,Realme,3.8,Urban,54,45-54,6,Saturday,True
+Tarakan,2024-11-30 13:27:20,"Genta Adriansyah, S.Ked",dasa70@example.org,(014) 057 8617,2003,Xiaomi,1.7,Rural,22,18-24,13,Saturday,True
+Kota Administrasi Jakarta Utara,2024-07-09 16:46:53,Malika Wulandari,czulkarnain@example.net,+62-63-048-9138,1996,Huawei,6.8,Suburban,29,25-34,16,Tuesday,False
+Banjarbaru,2025-02-26 14:10:19,"Puji Anggraini, M.Pd",iswahyudinova@example.net,+62 (49) 671 8325,1980,Vivo,10.0,Suburban,45,35-44,14,Wednesday,False
+Tanjungpinang,2025-03-20 14:07:05,Yuni Pradana,ciaobella83@example.net,0823868700,1970,Asus,6.0,Urban,55,45-54,14,Thursday,False
+Subulussalam,2024-07-16 07:40:27,Jagaraga Situmorang,xsiregar@example.org,(0942) 007 4946,1998,Apple,7.7,Urban,27,25-34,7,Tuesday,False
+Bima,2024-08-22 10:21:58,Enteng Nainggolan,upiksitompul@example.net,+62 (398) 402-8914,1983,Vivo,6.2,Urban,42,35-44,10,Thursday,False
+Samarinda,2025-02-11 13:36:26,"Vanesa Kusumo, S.Gz",xwahyuni@example.net,+62 (061) 284 6398,1997,Apple,5.8,Rural,28,25-34,13,Tuesday,False
+Parepare,2024-06-13 03:16:25,"Ir. Hari Susanti, S.Ked",glatupono@example.net,+62 (547) 435 5379,1970,Apple,7.8,Suburban,55,45-54,3,Thursday,False
+Palembang,2025-02-17 02:39:42,Danang Hidayat,adhiarjasiregar@example.com,+62 (020) 970 0268,1979,Xiaomi,5.4,Urban,46,45-54,2,Monday,False
+Denpasar,2025-04-01 13:31:36,Legawa Firmansyah,hana85@example.net,(0681) 180-7156,1985,Realme,6.5,Rural,40,35-44,13,Tuesday,False
+Kota Administrasi Jakarta Pusat,2024-12-04 06:55:14,Rahayu Wulandari,gunawangambira@example.com,+62 (620) 175-3703,1985,Asus,6.6,Urban,40,35-44,6,Wednesday,False
+Binjai,2024-04-17 22:23:54,"Alika Prasasta, S.Gz",rezakurniawan@example.com,+62-45-319-4337,1980,Vivo,4.7,Urban,45,35-44,22,Wednesday,False
+Padang,2024-08-02 12:21:28,Maida Pradipta,harimurtilazuardi@example.com,+62 (047) 930-3614,1991,Apple,8.0,Urban,34,25-34,12,Friday,False
+Batu,2025-03-16 04:53:38,Sutan Perkasa Hakim,vinsennainggolan@example.net,087 283 9992,1974,Apple,5.7,Suburban,51,45-54,4,Sunday,True
+Bukittinggi,2024-06-12 00:33:31,Jefri Siregar,darijan60@example.net,+62 (092) 124 9384,1983,Oppo,4.5,Rural,42,35-44,0,Wednesday,False
+Salatiga,2024-06-06 07:35:01,Rahman Permata,hartativinsen@example.net,+62-089-487-0605,1986,Samsung,7.1,Urban,39,35-44,7,Thursday,False
+Bau-Bau,2024-11-12 15:08:31,Ratih Rahimah,bellaardianto@example.net,(064) 187-7580,1990,Samsung,4.2,Rural,35,25-34,15,Tuesday,False
+Bitung,2024-07-23 04:14:08,"Ir. Reza Sinaga, S.H.",puspasarisakti@example.net,+62-0046-875-0635,1992,Apple,6.1,Urban,33,25-34,4,Tuesday,False
+Sibolga,2025-02-20 22:39:26,Dinda Wijayanti,xmelani@example.org,+62 (090) 361 3325,1973,Samsung,6.0,Rural,52,45-54,22,Thursday,False
+Pematangsiantar,2024-06-23 14:24:00,Sutan Hendri Salahudin,edijailani@example.com,+62 (0110) 760-9543,1970,Samsung,8.2,Suburban,55,45-54,14,Sunday,True
+Palopo,2024-05-29 12:33:25,Almira Puspita,clara66@example.net,+62 (073) 505-8319,1997,Samsung,6.9,Rural,28,25-34,12,Wednesday,False
+Langsa,2024-12-29 13:28:22,R. Sari Wastuti,kuncarawidodo@example.com,(0179) 110 0651,1988,Samsung,5.9,Urban,37,35-44,13,Sunday,True
+Lhokseumawe,2025-03-19 07:50:55,Puti Lailasari,utama22@example.com,+62 (07) 049 6110,1977,Samsung,7.6,Rural,48,45-54,7,Wednesday,False
+Singkawang,2024-04-26 20:15:27,Gangsar Yuniar,hana58@example.net,0804661963,2000,Asus,8.8,Suburban,25,18-24,20,Friday,False
+Tual,2024-06-07 00:27:51,"Harjaya Novitasari, S.Psi",himawanpranowo@example.net,+62-76-769-9150,1986,Apple,7.1,Urban,39,35-44,0,Friday,False
+Sorong,2024-04-22 14:28:38,"Lidya Wasita, S.E.I",yuliana52@example.net,(0859) 311 0919,1996,Apple,6.0,Rural,29,25-34,14,Monday,False
+Kota Administrasi Jakarta Selatan,2024-09-02 23:01:45,Keisha Nashiruddin,chelseanamaga@example.net,+62-928-456-7972,1985,Oppo,3.4,Urban,40,35-44,23,Monday,False
+Cilegon,2025-02-17 15:09:35,"Dr. Jasmani Permadi, S.H.",daru58@example.com,+62-0200-249-6854,2005,Samsung,3.9,Rural,20,18-24,15,Monday,False
+Cirebon,2025-02-17 00:41:01,Zamira Megantara,vwulandari@example.net,0822749545,2002,Huawei,5.4,Urban,23,18-24,0,Monday,False
+Cilegon,2024-07-18 05:39:08,"drg. Vinsen Hakim, M.Pd",surya08@example.org,+62-89-203-8806,1982,Vivo,4.8,Suburban,43,35-44,5,Thursday,False
+Padang Sidempuan,2024-12-01 12:28:34,Lidya Puspita,wibowoelvin@example.org,+62 (333) 153-7795,1994,Samsung,5.6,Suburban,31,25-34,12,Sunday,True
+Tanjungbalai,2024-08-20 13:44:16,R.M. Harsanto Prasasta,pangestukasusra@example.org,+62 (946) 521 7073,1991,Apple,6.1,Urban,34,25-34,13,Tuesday,False
+Kupang,2024-04-22 23:03:34,Farhunnisa Sitompul,wani42@example.org,+62-33-793-3756,1998,Realme,7.1,Urban,27,25-34,23,Monday,False
+Kediri,2024-06-23 12:03:41,"Bahuwirya Hartati, S.I.Kom",hasim80@example.com,+62-620-501-5081,1975,Huawei,5.9,Urban,50,45-54,12,Sunday,True
+Tarakan,2024-07-28 21:22:25,Kawaca Nainggolan,njailani@example.net,+62 (47) 395 0033,1991,Apple,7.0,Urban,34,25-34,21,Sunday,True
+Tanjungpinang,2024-05-07 04:21:48,Embuh Waluyo,sakurapurwanti@example.com,+62 (0234) 258-3230,1995,Xiaomi,6.1,Urban,30,25-34,4,Tuesday,False
+Batu,2024-06-05 01:26:39,"Lukita Suartini, S.Gz",calistasuwarno@example.net,+62 (41) 026-1534,1970,Samsung,2.0,Suburban,55,45-54,1,Wednesday,False
+Kota Administrasi Jakarta Selatan,2025-01-29 21:16:57,"Puti Fitriani Rahmawati, M.Pd",wibowoprayitna@example.com,(0355) 289 6112,1973,Asus,4.1,Urban,52,45-54,21,Wednesday,False
+Pagaralam,2024-09-27 07:36:21,Jatmiko Pranowo,indah00@example.net,+62 (33) 865 5963,1970,Samsung,5.7,Urban,55,45-54,7,Friday,False
+Probolinggo,2024-11-07 03:26:30,"dr. Ilsa Budiman, S.Kom",halim97@example.org,+62-099-384-2530,1982,Huawei,3.6,Suburban,43,35-44,3,Thursday,False
+Sukabumi,2024-05-30 23:15:26,Yono Lazuardi,lintang89@example.org,+62 (0289) 731 7912,1992,Xiaomi,7.2,Urban,33,25-34,23,Thursday,False
+Kota Administrasi Jakarta Timur,2025-01-31 10:04:23,"Usyi Kuswandari, S.H.",lanjarhassanah@example.org,086 857 8725,2000,Xiaomi,9.1,Rural,25,18-24,10,Friday,False
+Batu,2024-05-11 12:22:22,"Rahmi Putra, S.Sos",nashiruddinganjaran@example.net,+62 (877) 749-6903,1985,Xiaomi,8.4,Rural,40,35-44,12,Saturday,True
+Cimahi,2024-10-18 18:54:11,Kusuma Sinaga,waluyobajragin@example.com,+62-0373-634-6692,2001,Samsung,5.6,Suburban,24,18-24,18,Friday,False
+Serang,2024-10-07 22:11:49,"T. Harjasa Hastuti, M.Pd",ida42@example.org,+62 (481) 214-7853,1971,Samsung,9.0,Suburban,54,45-54,22,Monday,False
+Palembang,2025-02-12 23:36:48,"Gatot Samosir, S.T.",adikara57@example.net,+62-078-956-7766,1970,Samsung,6.3,Rural,55,45-54,23,Wednesday,False
+Pangkalpinang,2024-09-04 10:25:01,Oliva Mandasari,bahuwiryamangunsong@example.com,+62 (754) 602-7341,1984,Samsung,5.3,Urban,41,35-44,10,Wednesday,False
+Tanjungpinang,2024-11-02 03:41:37,Cinthia Halimah,utamipatricia@example.net,+62 (148) 881-4311,1988,Vivo,4.8,Urban,37,35-44,3,Saturday,True
+Kota Administrasi Jakarta Timur,2024-12-03 09:20:15,"Tgk. Vinsen Putra, S.I.Kom",ami98@example.com,+62 (050) 835 3544,1984,Apple,5.4,Urban,41,35-44,9,Tuesday,False
+Palembang,2024-05-29 04:25:34,Laras Gunawan,simanjuntakellis@example.org,+62 (0392) 840 4456,1970,Samsung,5.2,Suburban,55,45-54,4,Wednesday,False
+Serang,2024-10-09 08:57:54,R.A. Ulya Maulana,evahidayat@example.net,(090) 782 6333,1984,Asus,6.3,Urban,41,35-44,8,Wednesday,False
+Palangkaraya,2024-10-29 12:05:10,Elon Puspasari,radikapalastri@example.net,(0389) 877-5153,1971,Realme,6.3,Suburban,54,45-54,12,Tuesday,False
+Sibolga,2024-07-11 20:57:45,Ir. Tantri Agustina,wiswahyudi@example.org,(063) 778-0529,1991,Huawei,6.0,Rural,34,25-34,20,Thursday,False
+Bandar Lampung,2024-12-11 17:10:49,Eva Napitupulu,tarisitompul@example.com,+62 (40) 755 3666,1988,Asus,6.9,Rural,37,35-44,17,Wednesday,False
+Kediri,2024-05-03 16:09:38,Ghaliyati Wibowo,langgeng39@example.net,0845909022,1975,Samsung,8.4,Suburban,50,45-54,16,Friday,False
+Tual,2025-01-24 06:21:54,R.A. Najwa Pudjiastuti,wpurwanti@example.net,+62 (999) 966 3618,1979,Apple,7.9,Urban,46,45-54,6,Friday,False
+Samarinda,2025-02-15 00:10:25,"Warsa Sirait, S.T.",latuponouli@example.com,(037) 159 7412,1974,Vivo,3.0,Rural,51,45-54,0,Saturday,True
+Tual,2025-04-04 18:08:55,"drg. Nyoman Yuniar, M.Kom.",ppermadi@example.net,+62 (082) 097-0231,1984,Oppo,1.0,Suburban,41,35-44,18,Friday,False
+Parepare,2025-03-19 12:49:00,Ella Thamrin,bahuwiryazulaika@example.com,(043) 348 1705,1994,Samsung,7.9,Urban,31,25-34,12,Wednesday,False
+Kota Administrasi Jakarta Utara,2024-12-28 17:23:27,Cahyono Palastri,ylatupono@example.com,080 256 6212,1975,Vivo,3.3,Urban,50,45-54,17,Saturday,True
+Sawahlunto,2024-11-05 08:14:48,Fitria Namaga,asirwanda85@example.net,0867163234,1990,Samsung,5.6,Rural,35,25-34,8,Tuesday,False
+Subulussalam,2024-08-11 23:22:03,"Yusuf Halim, M.TI.",claksita@example.com,(072) 994-9387,1979,Samsung,3.7,Suburban,46,45-54,23,Sunday,True
+Bekasi,2024-10-11 17:14:05,Salman Hutagalung,marasmulyani@example.org,+62 (0302) 716 9385,1977,Xiaomi,2.4,Rural,48,45-54,17,Friday,False
+Malang,2024-12-22 16:20:20,"Hj. Alika Ardianto, S.Farm",marbungawati@example.net,(0779) 014-7546,1983,Xiaomi,7.1,Rural,42,35-44,16,Sunday,True
+Magelang,2024-04-28 22:18:51,Saiful Usamah,utamicahyadi@example.org,+62 (63) 296-7629,1974,Xiaomi,7.5,Suburban,51,45-54,22,Sunday,True
+Surakarta,2024-05-10 10:54:10,Bagas Maryadi,yessianggraini@example.org,+62 (060) 324-8413,1979,Samsung,4.8,Suburban,46,45-54,10,Friday,False
+Cilegon,2024-10-19 20:24:14,Darimin Mayasari,gawatifujiati@example.net,(0681) 511-8567,1973,Realme,1.0,Urban,52,45-54,20,Saturday,True
+Padang Sidempuan,2025-03-11 21:21:50,Kasiyah Halim,mangunsongasirwada@example.com,+62 (43) 807-0176,2004,Samsung,4.9,Urban,21,18-24,21,Tuesday,False
+Kotamobagu,2024-09-19 19:18:47,Hj. Salwa Susanti,bahuraksa11@example.org,+62 (636) 004 1257,1985,Samsung,6.8,Urban,40,35-44,19,Thursday,False
+Tual,2024-09-29 09:07:38,Sakura Laksita,jefripuspita@example.org,(0711) 837-2742,1978,Realme,3.0,Suburban,47,45-54,9,Sunday,True
+Palu,2025-01-08 06:51:40,Adiarja Nasyidah,karimanwasita@example.com,+62 (09) 124-1862,1987,Asus,6.4,Suburban,38,35-44,6,Wednesday,False
+Lubuklinggau,2024-05-28 18:14:46,dr. Adinata Budiyanto,zusamah@example.com,+62 (004) 275 2308,1983,Realme,6.0,Rural,42,35-44,18,Tuesday,False
+Madiun,2024-10-24 05:36:21,H. Endra Nasyiah,anom61@example.net,+62-708-164-7090,1982,Vivo,7.2,Urban,43,35-44,5,Thursday,False
+Yogyakarta,2025-01-18 12:01:50,Anita Mardhiyah,yuniarpuji@example.org,+62-063-353-3106,1991,Oppo,6.2,Suburban,34,25-34,12,Saturday,True
+Pekanbaru,2025-04-05 02:59:43,"Hj. Mala Nugroho, S.IP",hidayantonasrullah@example.net,+62-05-313-1220,1992,Xiaomi,4.1,Suburban,33,25-34,2,Saturday,True
+Surabaya,2024-10-06 02:16:11,Karna Maryadi,siregaryulia@example.com,(081) 558-3938,1979,Samsung,8.4,Suburban,46,45-54,2,Sunday,True
+Padang Sidempuan,2024-05-15 08:57:08,Dadi Safitri,suryonotaufik@example.com,(061) 331 5520,1979,Apple,5.7,Suburban,46,45-54,8,Wednesday,False
+Depok,2025-04-01 01:44:34,T. Rahman Thamrin,bwijayanti@example.com,(050) 637 3149,1982,Apple,5.9,Urban,43,35-44,1,Tuesday,False
+Solok,2024-05-18 04:59:27,Wulan Widodo,farhunnisaprasetya@example.org,+62 (013) 649-7189,1970,Samsung,4.1,Suburban,55,45-54,4,Saturday,True
+Sorong,2024-08-19 22:16:08,Hardi Waskita,spalastri@example.net,+62 (41) 956-2525,1970,Oppo,5.1,Urban,55,45-54,22,Monday,False
+Tual,2024-12-09 01:42:43,Padmi Prasasta,lembahwastuti@example.net,(0150) 997-6838,1998,Apple,4.2,Urban,27,25-34,1,Monday,False
+Gorontalo,2024-06-13 10:32:26,"Genta Salahudin, S.Pt",ajimin88@example.org,+62-30-914-3639,2001,Samsung,5.7,Urban,24,18-24,10,Thursday,False
+Purwokerto,2024-05-12 08:10:19,"Sidiq Yulianti, S.Gz",gunartoadikara@example.net,+62 (002) 574 3263,1982,Samsung,9.4,Suburban,43,35-44,8,Sunday,True
+Kotamobagu,2024-06-04 20:09:36,Halim Wibowo,jnasyiah@example.org,+62-039-752-4508,1990,Oppo,3.3,Rural,35,25-34,20,Tuesday,False
+Tanjungpinang,2024-08-01 15:18:14,Puspa Kusmawati,imam53@example.com,(040) 355-3380,1988,Samsung,2.8,Suburban,37,35-44,15,Thursday,False
+Bitung,2024-12-15 07:01:47,Makuta Anggriawan,galurnashiruddin@example.org,+62-0396-852-7017,2005,Realme,8.9,Suburban,20,18-24,7,Sunday,True
+Sorong,2024-12-18 16:40:18,"Ella Hutasoit, M.Kom.",harsanto12@example.net,+62 (030) 232 1298,1996,Apple,5.6,Suburban,29,25-34,16,Wednesday,False
+Tarakan,2024-11-30 03:57:48,"drg. Septi Sitompul, M.Farm",pudjiastutivirman@example.net,+62-381-674-2336,1983,Apple,4.7,Suburban,42,35-44,3,Saturday,True
+Lhokseumawe,2024-11-15 19:01:17,"Puti Paris Gunarto, S.H.",siregarusyi@example.org,+62 (93) 449-7347,1975,Xiaomi,8.1,Urban,50,45-54,19,Friday,False
+Purwokerto,2025-01-18 09:42:51,Umay Purnawati,daliman39@example.com,+62 (056) 627 7689,1970,Vivo,4.8,Urban,55,45-54,9,Saturday,True
+Bekasi,2024-08-21 02:55:01,Humaira Gunawan,nasab23@example.org,(027) 066-1498,1987,Apple,9.7,Urban,38,35-44,2,Wednesday,False
+Binjai,2024-09-11 18:15:19,Mahdi Setiawan,pia13@example.com,+62 (82) 467 4746,1977,Oppo,7.4,Urban,48,45-54,18,Wednesday,False
+Bitung,2024-12-04 20:03:53,Drs. Maryadi Firmansyah,vhartati@example.net,0897152732,1970,Xiaomi,5.0,Urban,55,45-54,20,Wednesday,False
+Payakumbuh,2024-11-08 21:07:02,Wisnu Sihotang,zulfa92@example.net,+62-008-576-6656,1978,Samsung,10.0,Urban,47,45-54,21,Friday,False
+Pekanbaru,2024-08-09 08:36:55,Yono Pranowo,laswi62@example.org,(0491) 601-6923,1974,Realme,4.8,Urban,51,45-54,8,Friday,False
+Padangpanjang,2024-10-10 00:54:12,R. Umi Widodo,jumadi36@example.com,(045) 875-0663,2001,Vivo,7.5,Rural,24,18-24,0,Thursday,False
+Parepare,2024-10-30 04:02:48,Eja Marpaung,embuh57@example.com,+62-0705-024-9724,1993,Oppo,6.6,Urban,32,25-34,4,Wednesday,False
+Palu,2024-12-07 22:57:21,R.A. Qori Wibisono,xtamba@example.com,+62-0992-011-6691,1984,Realme,8.6,Urban,41,35-44,22,Saturday,True
+Meulaboh,2024-09-30 21:43:03,"Usman Namaga, S.Psi",gpuspasari@example.org,083 626 4488,1999,Realme,9.1,Urban,26,25-34,21,Monday,False
+Serang,2024-05-25 08:22:45,Usyi Mandala,setiawanestiono@example.net,(094) 611 9524,1985,Oppo,6.1,Suburban,40,35-44,8,Saturday,True
+Batam,2025-02-18 20:09:37,"H. Nyoman Hutapea, M.TI.",karsautami@example.org,+62-640-270-1168,1976,Vivo,4.5,Urban,49,45-54,20,Tuesday,False
+Yogyakarta,2025-01-14 09:01:38,"Jelita Habibi, S.IP",budiyantocinthia@example.net,(046) 225-2237,2000,Oppo,6.9,Urban,25,18-24,9,Tuesday,False
+Makassar,2024-05-31 06:23:08,Gina Hutagalung,prastutikiandra@example.com,+62 (81) 793-2302,1990,Oppo,4.6,Suburban,35,25-34,6,Friday,False
+Ambon,2025-03-14 00:34:24,Rahmi Susanti,bagyapuspasari@example.com,+62-467-912-1416,1974,Xiaomi,10.0,Urban,51,45-54,0,Friday,False
+Tebingtinggi,2024-12-27 02:20:10,drg. Vicky Simbolon,xyolanda@example.org,+62 (041) 509-3771,1983,Vivo,6.3,Urban,42,35-44,2,Friday,False
+Semarang,2024-12-25 14:57:07,Mahesa Saputra,purwanto39@example.net,+62-04-090-1380,1976,Samsung,5.3,Urban,49,45-54,14,Wednesday,False
+Bukittinggi,2025-03-23 16:47:02,"drg. Joko Pradana, S.I.Kom",embuh78@example.net,(098) 477 5965,1971,Realme,6.4,Urban,54,45-54,16,Sunday,True
